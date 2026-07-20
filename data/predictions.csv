@@ -1,0 +1,51 @@
+LineId,Content,true_label,predicted_label
+388,mod_jk child workerEnv in error state 8,actionable,actionable
+1531,jk2_init() Found child 5593 in scoreboard slot 9,noise,noise
+18,jk2_init() Found child 6738 in scoreboard slot 6,noise,noise
+1809,jk2_init() Found child 6302 in scoreboard slot 8,noise,noise
+633,jk2_init() Found child 1297 in scoreboard slot 7,noise,noise
+1441,jk2_init() Found child 5430 in scoreboard slot 6,noise,noise
+1867,jk2_init() Found child 6421 in scoreboard slot 7,noise,noise
+415,jk2_init() Found child 32641 in scoreboard slot 6,noise,noise
+1344,jk2_init() Found child 5036 in scoreboard slot 9,noise,noise
+322,jk2_init() Found child 32555 in scoreboard slot 6,noise,noise
+1464,mod_jk child workerEnv in error state 8,actionable,actionable
+507,jk2_init() Found child 32758 in scoreboard slot 7,noise,noise
+1659,jk2_init() Found child 5954 in scoreboard slot 7,noise,noise
+1060,[client 218.207.61.7] Directory index forbidden by rule: /var/www/html/,noise,noise
+374,jk2_init() Found child 32601 in scoreboard slot 7,noise,noise
+1439,jk2_init() Found child 5428 in scoreboard slot 8,noise,noise
+1444,jk2_init() Found child 5435 in scoreboard slot 7,noise,noise
+1284,jk2_init() Found child 4991 in scoreboard slot 6,noise,noise
+355,mod_jk child workerEnv in error state 8,actionable,actionable
+1004,mod_jk child workerEnv in error state 7,actionable,actionable
+497,jk2_init() Found child 32713 in scoreboard slot 7,noise,noise
+872,jk2_init() Found child 1835 in scoreboard slot 9,noise,noise
+1741,jk2_init() Found child 6043 in scoreboard slot 9,noise,noise
+1379,jk2_init() Found child 5344 in scoreboard slot 7,noise,noise
+1770,mod_jk child workerEnv in error state 8,actionable,actionable
+973,jk2_init() Found child 1959 in scoreboard slot 9,noise,noise
+1828,mod_jk child workerEnv in error state 7,actionable,actionable
+330,jk2_init() Found child 32560 in scoreboard slot 6,noise,noise
+784,jk2_init() Found child 1565 in scoreboard slot 9,noise,noise
+520,mod_jk child workerEnv in error state 7,actionable,actionable
+1332,jk2_init() Found child 5029 in scoreboard slot 8,noise,noise
+1750,mod_jk child workerEnv in error state 8,actionable,actionable
+499,jk2_init() Found child 32720 in scoreboard slot 8,noise,noise
+1307,mod_jk child workerEnv in error state 7,actionable,actionable
+1298,mod_jk child workerEnv in error state 7,actionable,actionable
+1193,jk2_init() Found child 4613 in scoreboard slot 7,noise,noise
+1849,jk2_init() Found child 6386 in scoreboard slot 6,noise,noise
+897,jk2_init() Found child 1868 in scoreboard slot 6,noise,noise
+1330,mod_jk child workerEnv in error state 7,actionable,actionable
+195,jk2_init() Found child 32425 in scoreboard slot 6,noise,noise
+37,jk2_init() Found child 6752 in scoreboard slot 10,noise,noise
+807,jk2_init() Found child 1763 in scoreboard slot 6,noise,noise
+1624,jk2_init() Found child 5916 in scoreboard slot 7,noise,noise
+1990,jk2_init() Found child 6780 in scoreboard slot 7,noise,noise
+74,jk2_init() Found child 8541 in scoreboard slot 9,noise,noise
+479,jk2_init() Found child 32696 in scoreboard slot 6,noise,noise
+732,jk2_init() Found child 1440 in scoreboard slot 8,noise,noise
+1472,mod_jk child workerEnv in error state 8,actionable,actionable
+720,mod_jk child workerEnv in error state 7,actionable,actionable
+601,jk2_init() Found child 1256 in scoreboard slot 6,noise,noise
