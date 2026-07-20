@@ -1,0 +1,43 @@
+{
+  "is_mock": true,
+  "prediction_source": "data/predictions_MOCK_DEMO_ONLY.csv",
+  "incidents": [
+    {
+      "facts": {
+        "incident_key": "E3",
+        "event_template": "mod_jk child workerEnv in error state <*>",
+        "occurrences_in_classified_sample": 13,
+        "first_seen": "Sun Dec 04 06:46:33 2005",
+        "last_seen": "Mon Dec 05 16:07:09 2005",
+        "representative_logs": [
+          "mod_jk child workerEnv in error state 8",
+          "mod_jk child workerEnv in error state 7"
+        ],
+        "nearby_error_logs": [
+          "mod_jk child workerEnv in error state 10",
+          "mod_jk child workerEnv in error state 8",
+          "mod_jk child workerEnv in error state 7"
+        ],
+        "level_distribution": {
+          "error": 13
+        }
+      },
+      "report": {
+        "classification": "actionable",
+        "reason": "The same Apache error pattern was classified as actionable 13 time(s) in the evaluated sample.",
+        "evidence": [
+          "Repeated template: mod_jk child workerEnv in error state <*>",
+          "Observed 13 actionable occurrence(s) from Sun Dec 04 06:46:33 2005 to Mon Dec 05 16:07:09 2005.",
+          "Source log: mod_jk child workerEnv in error state 8",
+          "Source log: mod_jk child workerEnv in error state 7"
+        ],
+        "likely_cause": "The log evidence indicates a worker/initialization failure, but does not establish a single root cause.",
+        "suggested_checks": [
+          "Inspect the Apache/mod_jk worker configuration and worker-process health.",
+          "Correlate this time range with application and system logs before restarting services."
+        ],
+        "confidence": "medium"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "source_file": "data/predictions_MOCK_DEMO_ONLY.csv",
+  "is_mock": true,
+  "n": 200,
+  "accuracy": 1.0,
+  "per_label": {
+    "noise": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 162
+    },
+    "actionable": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 38
+    }
+  },
+  "confusion_matrix": {
+    "labels": [
+      "noise",
+      "actionable"
+    ],
+    "matrix": [
+      [
+        162,
+        0
+      ],
+      [
+        0,
+        38
+      ]
+    ]
+  },
+  "misclassified_count": 0
+}

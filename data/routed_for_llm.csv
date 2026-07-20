@@ -1,0 +1,57 @@
+LineId,Time,Content,EventId,label
+132,Sun Dec 04 05:15:09 2005,[client 222.166.160.184] Directory index forbidden by rule: /var/www/html/,E4,noise
+580,Sun Dec 04 07:45:45 2005,[client 63.13.186.196] Directory index forbidden by rule: /var/www/html/,E4,noise
+581,Sun Dec 04 08:54:17 2005,[client 147.31.138.75] Directory index forbidden by rule: /var/www/html/,E4,noise
+582,Sun Dec 04 09:35:12 2005,[client 207.203.80.15] Directory index forbidden by rule: /var/www/html/,E4,noise
+583,Sun Dec 04 10:53:30 2005,[client 218.76.139.20] Directory index forbidden by rule: /var/www/html/,E4,noise
+584,Sun Dec 04 11:11:07 2005,[client 24.147.151.74] Directory index forbidden by rule: /var/www/html/,E4,noise
+585,Sun Dec 04 11:33:18 2005,[client 211.141.93.88] Directory index forbidden by rule: /var/www/html/,E4,noise
+586,Sun Dec 04 11:42:43 2005,[client 216.127.124.16] Directory index forbidden by rule: /var/www/html/,E4,noise
+587,Sun Dec 04 12:33:13 2005,[client 208.51.151.210] Directory index forbidden by rule: /var/www/html/,E4,noise
+588,Sun Dec 04 13:32:32 2005,[client 65.68.235.27] Directory index forbidden by rule: /var/www/html/,E4,noise
+589,Sun Dec 04 14:29:00 2005,[client 4.245.93.87] Directory index forbidden by rule: /var/www/html/,E4,noise
+590,Sun Dec 04 15:18:36 2005,[client 67.154.58.130] Directory index forbidden by rule: /var/www/html/,E4,noise
+591,Sun Dec 04 15:59:01 2005,[client 24.83.37.136] Directory index forbidden by rule: /var/www/html/,E4,noise
+593,Sun Dec 04 16:24:05 2005,[client 58.225.62.140] Directory index forbidden by rule: /var/www/html/,E4,noise
+773,Sun Dec 04 17:34:57 2005,[client 61.138.216.82] Directory index forbidden by rule: /var/www/html/,E4,noise
+785,Sun Dec 04 17:43:08 2005,jk2_init() Can't find child 1566 in scoreboard,E5,actionable
+789,Sun Dec 04 17:43:08 2005,jk2_init() Can't find child 1567 in scoreboard,E5,actionable
+796,Sun Dec 04 17:43:12 2005,mod_jk child init 1 -2,E6,actionable
+802,Sun Dec 04 17:43:12 2005,mod_jk child init 1 -2,E6,actionable
+805,Sun Dec 04 17:53:43 2005,[client 218.39.132.175] Directory index forbidden by rule: /var/www/html/,E4,noise
+806,Sun Dec 04 18:24:22 2005,[client 125.30.38.52] Directory index forbidden by rule: /var/www/html/,E4,noise
+828,Sun Dec 04 19:36:05 2005,[client 61.37.222.240] Directory index forbidden by rule: /var/www/html/,E4,noise
+1032,Sun Dec 04 20:47:16 2005,jk2_init() Can't find child 2082 in scoreboard,E5,actionable
+1037,Sun Dec 04 20:47:16 2005,mod_jk child init 1 -2,E6,actionable
+1040,Sun Dec 04 20:47:17 2005,jk2_init() Can't find child 2085 in scoreboard,E5,actionable
+1042,Sun Dec 04 20:47:17 2005,mod_jk child init 1 -2,E6,actionable
+1043,Sun Dec 04 20:47:17 2005,jk2_init() Can't find child 2086 in scoreboard,E5,actionable
+1045,Sun Dec 04 20:47:17 2005,mod_jk child init 1 -2,E6,actionable
+1046,Sun Dec 04 20:47:17 2005,jk2_init() Can't find child 2087 in scoreboard,E5,actionable
+1051,Sun Dec 04 20:47:17 2005,mod_jk child init 1 -2,E6,actionable
+1052,Mon Dec 05 01:04:31 2005,[client 218.62.18.218] Directory index forbidden by rule: /var/www/html/,E4,noise
+1053,Mon Dec 05 01:30:32 2005,[client 211.62.201.48] Directory index forbidden by rule: /var/www/html/,E4,noise
+1060,Mon Dec 05 03:23:24 2005,[client 218.207.61.7] Directory index forbidden by rule: /var/www/html/,E4,noise
+1080,Mon Dec 05 03:44:50 2005,[client 168.20.198.21] Directory index forbidden by rule: /var/www/html/,E4,noise
+1217,Mon Dec 05 06:36:59 2005,[client 221.232.178.24] Directory index forbidden by rule: /var/www/html/,E4,noise
+1349,Mon Dec 05 07:57:02 2005,jk2_init() Can't find child 5053 in scoreboard,E5,actionable
+1350,Mon Dec 05 07:57:02 2005,jk2_init() Can't find child 5054 in scoreboard,E5,actionable
+1363,Mon Dec 05 07:57:02 2005,mod_jk child init 1 -2,E6,actionable
+1365,Mon Dec 05 07:57:02 2005,mod_jk child init 1 -2,E6,actionable
+1366,Mon Dec 05 09:09:48 2005,[client 207.12.15.211] Directory index forbidden by rule: /var/www/html/,E4,noise
+1421,Mon Dec 05 10:26:39 2005,[client 141.153.150.164] Directory index forbidden by rule: /var/www/html/,E4,noise
+1422,Mon Dec 05 10:28:44 2005,[client 198.232.168.9] Directory index forbidden by rule: /var/www/html/,E4,noise
+1493,Mon Dec 05 10:48:48 2005,[client 67.166.248.235] Directory index forbidden by rule: /var/www/html/,E4,noise
+1541,Mon Dec 05 11:06:52 2005,jk2_init() Can't find child 5619 in scoreboard,E5,actionable
+1543,Mon Dec 05 11:06:52 2005,mod_jk child init 1 -2,E6,actionable
+1544,Mon Dec 05 11:06:52 2005,jk2_init() Can't find child 5620 in scoreboard,E5,actionable
+1546,Mon Dec 05 11:06:52 2005,mod_jk child init 1 -2,E6,actionable
+1547,Mon Dec 05 11:06:52 2005,jk2_init() Can't find child 5621 in scoreboard,E5,actionable
+1549,Mon Dec 05 11:06:52 2005,mod_jk child init 1 -2,E6,actionable
+1550,Mon Dec 05 11:06:52 2005,jk2_init() Can't find child 5622 in scoreboard,E5,actionable
+1552,Mon Dec 05 11:06:52 2005,mod_jk child init 1 -2,E6,actionable
+1772,Mon Dec 05 14:11:43 2005,[client 141.154.18.244] Directory index forbidden by rule: /var/www/html/,E4,noise
+1890,Mon Dec 05 16:45:04 2005,[client 216.216.185.130] Directory index forbidden by rule: /var/www/html/,E4,noise
+1892,Mon Dec 05 17:31:39 2005,[client 218.75.106.250] Directory index forbidden by rule: /var/www/html/,E4,noise
+1989,Mon Dec 05 19:00:56 2005,[client 68.228.3.15] Directory index forbidden by rule: /var/www/html/,E4,noise
+1994,Mon Dec 05 19:14:09 2005,[client 61.220.139.68] Directory index forbidden by rule: /var/www/html/,E4,noise

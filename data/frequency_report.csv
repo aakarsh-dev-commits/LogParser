@@ -1,0 +1,7 @@
+DrainId,EventTemplate,Occurrences,OccurrencePct,Category,Recommended_Action
+D1,jk2_init() Found child <*> in scoreboard slot <*>,836,41.8,high_volume,"Bypass LLM — high repetition, classify by rule or template label"
+D2,workerEnv.init() ok /etc/httpd/conf/workers2.properties,569,28.45,high_volume,"Bypass LLM — high repetition, classify by rule or template label"
+D3,mod_jk child workerEnv in error state <*>,539,26.95,high_volume,"Bypass LLM — high repetition, classify by rule or template label"
+D4,[client <*> Directory index forbidden by rule: /var/www/html/,32,1.6,medium_volume,"Route to LLM — moderate frequency, semantic review needed"
+D5,jk2_init() Can't find child <*> in scoreboard,12,0.6,medium_volume,"Route to LLM — moderate frequency, semantic review needed"
+D6,mod_jk child init 1 -2,12,0.6,medium_volume,"Route to LLM — moderate frequency, semantic review needed"

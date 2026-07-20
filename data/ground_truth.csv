@@ -1,0 +1,2001 @@
+LineId,Time,Content,EventId,label
+1,Sun Dec 04 04:47:44 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+2,Sun Dec 04 04:47:44 2005,mod_jk child workerEnv in error state 6,E3,actionable
+3,Sun Dec 04 04:51:08 2005,jk2_init() Found child 6725 in scoreboard slot 10,E1,noise
+4,Sun Dec 04 04:51:09 2005,jk2_init() Found child 6726 in scoreboard slot 8,E1,noise
+5,Sun Dec 04 04:51:09 2005,jk2_init() Found child 6728 in scoreboard slot 6,E1,noise
+6,Sun Dec 04 04:51:14 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+7,Sun Dec 04 04:51:14 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+8,Sun Dec 04 04:51:14 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+9,Sun Dec 04 04:51:18 2005,mod_jk child workerEnv in error state 6,E3,actionable
+10,Sun Dec 04 04:51:18 2005,mod_jk child workerEnv in error state 6,E3,actionable
+11,Sun Dec 04 04:51:18 2005,mod_jk child workerEnv in error state 6,E3,actionable
+12,Sun Dec 04 04:51:37 2005,jk2_init() Found child 6736 in scoreboard slot 10,E1,noise
+13,Sun Dec 04 04:51:38 2005,jk2_init() Found child 6733 in scoreboard slot 7,E1,noise
+14,Sun Dec 04 04:51:38 2005,jk2_init() Found child 6734 in scoreboard slot 9,E1,noise
+15,Sun Dec 04 04:51:52 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+16,Sun Dec 04 04:51:52 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+17,Sun Dec 04 04:51:55 2005,mod_jk child workerEnv in error state 6,E3,actionable
+18,Sun Dec 04 04:52:04 2005,jk2_init() Found child 6738 in scoreboard slot 6,E1,noise
+19,Sun Dec 04 04:52:04 2005,jk2_init() Found child 6741 in scoreboard slot 9,E1,noise
+20,Sun Dec 04 04:52:05 2005,jk2_init() Found child 6740 in scoreboard slot 7,E1,noise
+21,Sun Dec 04 04:52:05 2005,jk2_init() Found child 6737 in scoreboard slot 8,E1,noise
+22,Sun Dec 04 04:52:12 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+23,Sun Dec 04 04:52:12 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+24,Sun Dec 04 04:52:12 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+25,Sun Dec 04 04:52:15 2005,mod_jk child workerEnv in error state 6,E3,actionable
+26,Sun Dec 04 04:52:15 2005,mod_jk child workerEnv in error state 7,E3,actionable
+27,Sun Dec 04 04:52:15 2005,mod_jk child workerEnv in error state 7,E3,actionable
+28,Sun Dec 04 04:52:36 2005,jk2_init() Found child 6748 in scoreboard slot 6,E1,noise
+29,Sun Dec 04 04:52:36 2005,jk2_init() Found child 6744 in scoreboard slot 10,E1,noise
+30,Sun Dec 04 04:52:36 2005,jk2_init() Found child 6745 in scoreboard slot 8,E1,noise
+31,Sun Dec 04 04:52:49 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+32,Sun Dec 04 04:52:49 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+33,Sun Dec 04 04:52:52 2005,mod_jk child workerEnv in error state 7,E3,actionable
+34,Sun Dec 04 04:52:52 2005,mod_jk child workerEnv in error state 6,E3,actionable
+35,Sun Dec 04 04:53:05 2005,jk2_init() Found child 6750 in scoreboard slot 7,E1,noise
+36,Sun Dec 04 04:53:05 2005,jk2_init() Found child 6751 in scoreboard slot 9,E1,noise
+37,Sun Dec 04 04:53:05 2005,jk2_init() Found child 6752 in scoreboard slot 10,E1,noise
+38,Sun Dec 04 04:53:15 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+39,Sun Dec 04 04:53:15 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+40,Sun Dec 04 04:53:16 2005,mod_jk child workerEnv in error state 7,E3,actionable
+41,Sun Dec 04 04:53:16 2005,mod_jk child workerEnv in error state 6,E3,actionable
+42,Sun Dec 04 04:53:29 2005,jk2_init() Found child 6754 in scoreboard slot 8,E1,noise
+43,Sun Dec 04 04:53:29 2005,jk2_init() Found child 6755 in scoreboard slot 6,E1,noise
+44,Sun Dec 04 04:53:40 2005,jk2_init() Found child 6756 in scoreboard slot 7,E1,noise
+45,Sun Dec 04 04:53:51 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+46,Sun Dec 04 04:53:54 2005,mod_jk child workerEnv in error state 7,E3,actionable
+47,Sun Dec 04 04:54:15 2005,jk2_init() Found child 6763 in scoreboard slot 10,E1,noise
+48,Sun Dec 04 04:54:15 2005,jk2_init() Found child 6766 in scoreboard slot 6,E1,noise
+49,Sun Dec 04 04:54:15 2005,jk2_init() Found child 6767 in scoreboard slot 7,E1,noise
+50,Sun Dec 04 04:54:15 2005,jk2_init() Found child 6765 in scoreboard slot 8,E1,noise
+51,Sun Dec 04 04:54:18 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+52,Sun Dec 04 04:54:18 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+53,Sun Dec 04 04:54:18 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+54,Sun Dec 04 04:54:18 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+55,Sun Dec 04 04:54:18 2005,mod_jk child workerEnv in error state 6,E3,actionable
+56,Sun Dec 04 04:54:18 2005,mod_jk child workerEnv in error state 6,E3,actionable
+57,Sun Dec 04 04:54:18 2005,mod_jk child workerEnv in error state 7,E3,actionable
+58,Sun Dec 04 04:54:18 2005,mod_jk child workerEnv in error state 7,E3,actionable
+59,Sun Dec 04 04:54:20 2005,jk2_init() Found child 6768 in scoreboard slot 9,E1,noise
+60,Sun Dec 04 04:54:20 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+61,Sun Dec 04 04:54:20 2005,mod_jk child workerEnv in error state 6,E3,actionable
+62,Sun Dec 04 04:56:52 2005,jk2_init() Found child 8527 in scoreboard slot 10,E1,noise
+63,Sun Dec 04 04:56:52 2005,jk2_init() Found child 8533 in scoreboard slot 8,E1,noise
+64,Sun Dec 04 04:56:57 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+65,Sun Dec 04 04:56:57 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+66,Sun Dec 04 04:56:59 2005,mod_jk child workerEnv in error state 6,E3,actionable
+67,Sun Dec 04 04:57:00 2005,mod_jk child workerEnv in error state 6,E3,actionable
+68,Sun Dec 04 04:57:20 2005,jk2_init() Found child 8536 in scoreboard slot 6,E1,noise
+69,Sun Dec 04 04:57:20 2005,jk2_init() Found child 8539 in scoreboard slot 7,E1,noise
+70,Sun Dec 04 04:57:24 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+71,Sun Dec 04 04:57:24 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+72,Sun Dec 04 04:57:24 2005,mod_jk child workerEnv in error state 6,E3,actionable
+73,Sun Dec 04 04:57:24 2005,mod_jk child workerEnv in error state 6,E3,actionable
+74,Sun Dec 04 04:57:49 2005,jk2_init() Found child 8541 in scoreboard slot 9,E1,noise
+75,Sun Dec 04 04:58:11 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+76,Sun Dec 04 04:58:18 2005,mod_jk child workerEnv in error state 6,E3,actionable
+77,Sun Dec 04 04:58:45 2005,jk2_init() Found child 8547 in scoreboard slot 10,E1,noise
+78,Sun Dec 04 04:58:57 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+79,Sun Dec 04 04:58:58 2005,mod_jk child workerEnv in error state 6,E3,actionable
+80,Sun Dec 04 04:59:28 2005,jk2_init() Found child 8554 in scoreboard slot 6,E1,noise
+81,Sun Dec 04 04:59:27 2005,jk2_init() Found child 8553 in scoreboard slot 8,E1,noise
+82,Sun Dec 04 04:59:35 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+83,Sun Dec 04 04:59:35 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+84,Sun Dec 04 04:59:38 2005,mod_jk child workerEnv in error state 6,E3,actionable
+85,Sun Dec 04 04:59:38 2005,mod_jk child workerEnv in error state 6,E3,actionable
+86,Sun Dec 04 05:00:03 2005,jk2_init() Found child 8560 in scoreboard slot 7,E1,noise
+87,Sun Dec 04 05:00:09 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+88,Sun Dec 04 05:00:09 2005,mod_jk child workerEnv in error state 6,E3,actionable
+89,Sun Dec 04 05:00:13 2005,jk2_init() Found child 8565 in scoreboard slot 9,E1,noise
+90,Sun Dec 04 05:00:13 2005,jk2_init() Found child 8573 in scoreboard slot 10,E1,noise
+91,Sun Dec 04 05:00:15 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+92,Sun Dec 04 05:00:15 2005,mod_jk child workerEnv in error state 6,E3,actionable
+93,Sun Dec 04 05:00:15 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+94,Sun Dec 04 05:00:15 2005,mod_jk child workerEnv in error state 6,E3,actionable
+95,Sun Dec 04 05:01:20 2005,jk2_init() Found child 8584 in scoreboard slot 7,E1,noise
+96,Sun Dec 04 05:01:20 2005,jk2_init() Found child 8587 in scoreboard slot 9,E1,noise
+97,Sun Dec 04 05:02:14 2005,jk2_init() Found child 8603 in scoreboard slot 10,E1,noise
+98,Sun Dec 04 05:02:14 2005,jk2_init() Found child 8605 in scoreboard slot 8,E1,noise
+99,Sun Dec 04 05:04:03 2005,jk2_init() Found child 8764 in scoreboard slot 10,E1,noise
+100,Sun Dec 04 05:04:03 2005,jk2_init() Found child 8765 in scoreboard slot 11,E1,noise
+101,Sun Dec 04 05:04:03 2005,jk2_init() Found child 8763 in scoreboard slot 9,E1,noise
+102,Sun Dec 04 05:04:03 2005,jk2_init() Found child 8744 in scoreboard slot 8,E1,noise
+103,Sun Dec 04 05:04:03 2005,jk2_init() Found child 8743 in scoreboard slot 7,E1,noise
+104,Sun Dec 04 05:04:03 2005,jk2_init() Found child 8738 in scoreboard slot 6,E1,noise
+105,Sun Dec 04 05:04:03 2005,jk2_init() Found child 8766 in scoreboard slot 12,E1,noise
+106,Sun Dec 04 05:04:04 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+107,Sun Dec 04 05:04:04 2005,mod_jk child workerEnv in error state 7,E3,actionable
+108,Sun Dec 04 05:04:04 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+109,Sun Dec 04 05:04:04 2005,mod_jk child workerEnv in error state 6,E3,actionable
+110,Sun Dec 04 05:04:04 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+111,Sun Dec 04 05:04:04 2005,mod_jk child workerEnv in error state 7,E3,actionable
+112,Sun Dec 04 05:04:04 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+113,Sun Dec 04 05:04:04 2005,mod_jk child workerEnv in error state 7,E3,actionable
+114,Sun Dec 04 05:04:04 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+115,Sun Dec 04 05:04:04 2005,mod_jk child workerEnv in error state 7,E3,actionable
+116,Sun Dec 04 05:04:04 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+117,Sun Dec 04 05:04:04 2005,mod_jk child workerEnv in error state 6,E3,actionable
+118,Sun Dec 04 05:04:04 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+119,Sun Dec 04 05:04:04 2005,mod_jk child workerEnv in error state 6,E3,actionable
+120,Sun Dec 04 05:11:51 2005,jk2_init() Found child 25792 in scoreboard slot 6,E1,noise
+121,Sun Dec 04 05:12:07 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+122,Sun Dec 04 05:12:10 2005,mod_jk child workerEnv in error state 6,E3,actionable
+123,Sun Dec 04 05:12:26 2005,jk2_init() Found child 25798 in scoreboard slot 7,E1,noise
+124,Sun Dec 04 05:12:26 2005,jk2_init() Found child 25803 in scoreboard slot 8,E1,noise
+125,Sun Dec 04 05:12:28 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+126,Sun Dec 04 05:12:28 2005,mod_jk child workerEnv in error state 6,E3,actionable
+127,Sun Dec 04 05:12:28 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+128,Sun Dec 04 05:12:28 2005,mod_jk child workerEnv in error state 6,E3,actionable
+129,Sun Dec 04 05:12:30 2005,jk2_init() Found child 25805 in scoreboard slot 9,E1,noise
+130,Sun Dec 04 05:12:30 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+131,Sun Dec 04 05:12:30 2005,mod_jk child workerEnv in error state 6,E3,actionable
+132,Sun Dec 04 05:15:09 2005,[client 222.166.160.184] Directory index forbidden by rule: /var/www/html/,E4,noise
+133,Sun Dec 04 05:15:13 2005,jk2_init() Found child 1000 in scoreboard slot 10,E1,noise
+134,Sun Dec 04 05:15:16 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+135,Sun Dec 04 05:15:16 2005,mod_jk child workerEnv in error state 6,E3,actionable
+136,Sun Dec 04 06:01:00 2005,jk2_init() Found child 32347 in scoreboard slot 6,E1,noise
+137,Sun Dec 04 06:01:00 2005,jk2_init() Found child 32348 in scoreboard slot 7,E1,noise
+138,Sun Dec 04 06:01:21 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+139,Sun Dec 04 06:01:21 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+140,Sun Dec 04 06:01:30 2005,mod_jk child workerEnv in error state 6,E3,actionable
+141,Sun Dec 04 06:01:42 2005,jk2_init() Found child 32352 in scoreboard slot 9,E1,noise
+142,Sun Dec 04 06:01:42 2005,jk2_init() Found child 32353 in scoreboard slot 10,E1,noise
+143,Sun Dec 04 06:01:42 2005,jk2_init() Found child 32354 in scoreboard slot 6,E1,noise
+144,Sun Dec 04 06:02:01 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+145,Sun Dec 04 06:02:02 2005,mod_jk child workerEnv in error state 7,E3,actionable
+146,Sun Dec 04 06:02:05 2005,jk2_init() Found child 32359 in scoreboard slot 9,E1,noise
+147,Sun Dec 04 06:02:05 2005,jk2_init() Found child 32360 in scoreboard slot 11,E1,noise
+148,Sun Dec 04 06:02:05 2005,jk2_init() Found child 32358 in scoreboard slot 8,E1,noise
+149,Sun Dec 04 06:02:05 2005,jk2_init() Found child 32355 in scoreboard slot 7,E1,noise
+150,Sun Dec 04 06:02:07 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+151,Sun Dec 04 06:02:07 2005,mod_jk child workerEnv in error state 7,E3,actionable
+152,Sun Dec 04 06:02:07 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+153,Sun Dec 04 06:02:07 2005,mod_jk child workerEnv in error state 6,E3,actionable
+154,Sun Dec 04 06:02:07 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+155,Sun Dec 04 06:02:07 2005,mod_jk child workerEnv in error state 6,E3,actionable
+156,Sun Dec 04 06:02:07 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+157,Sun Dec 04 06:02:07 2005,mod_jk child workerEnv in error state 6,E3,actionable
+158,Sun Dec 04 06:06:00 2005,jk2_init() Found child 32388 in scoreboard slot 8,E1,noise
+159,Sun Dec 04 06:06:00 2005,jk2_init() Found child 32387 in scoreboard slot 7,E1,noise
+160,Sun Dec 04 06:06:00 2005,jk2_init() Found child 32386 in scoreboard slot 6,E1,noise
+161,Sun Dec 04 06:06:10 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+162,Sun Dec 04 06:06:11 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+163,Sun Dec 04 06:06:12 2005,mod_jk child workerEnv in error state 6,E3,actionable
+164,Sun Dec 04 06:06:12 2005,mod_jk child workerEnv in error state 6,E3,actionable
+165,Sun Dec 04 06:06:20 2005,jk2_init() Found child 32389 in scoreboard slot 9,E1,noise
+166,Sun Dec 04 06:06:24 2005,jk2_init() Found child 32391 in scoreboard slot 10,E1,noise
+167,Sun Dec 04 06:06:24 2005,jk2_init() Found child 32390 in scoreboard slot 8,E1,noise
+168,Sun Dec 04 06:06:24 2005,jk2_init() Found child 32392 in scoreboard slot 6,E1,noise
+169,Sun Dec 04 06:06:26 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+170,Sun Dec 04 06:06:26 2005,mod_jk child workerEnv in error state 7,E3,actionable
+171,Sun Dec 04 06:06:26 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+172,Sun Dec 04 06:06:26 2005,mod_jk child workerEnv in error state 6,E3,actionable
+173,Sun Dec 04 06:06:26 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+174,Sun Dec 04 06:06:26 2005,mod_jk child workerEnv in error state 6,E3,actionable
+175,Sun Dec 04 06:06:26 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+176,Sun Dec 04 06:06:26 2005,mod_jk child workerEnv in error state 7,E3,actionable
+177,Sun Dec 04 06:11:11 2005,jk2_init() Found child 32410 in scoreboard slot 7,E1,noise
+178,Sun Dec 04 06:11:11 2005,jk2_init() Found child 32411 in scoreboard slot 9,E1,noise
+179,Sun Dec 04 06:12:31 2005,jk2_init() Found child 32423 in scoreboard slot 9,E1,noise
+180,Sun Dec 04 06:12:31 2005,jk2_init() Found child 32422 in scoreboard slot 8,E1,noise
+181,Sun Dec 04 06:12:31 2005,jk2_init() Found child 32419 in scoreboard slot 6,E1,noise
+182,Sun Dec 04 06:12:31 2005,jk2_init() Found child 32421 in scoreboard slot 11,E1,noise
+183,Sun Dec 04 06:12:31 2005,jk2_init() Found child 32420 in scoreboard slot 7,E1,noise
+184,Sun Dec 04 06:12:31 2005,jk2_init() Found child 32424 in scoreboard slot 10,E1,noise
+185,Sun Dec 04 06:12:37 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+186,Sun Dec 04 06:12:37 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+187,Sun Dec 04 06:12:37 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+188,Sun Dec 04 06:12:37 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+189,Sun Dec 04 06:12:37 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+190,Sun Dec 04 06:12:40 2005,mod_jk child workerEnv in error state 6,E3,actionable
+191,Sun Dec 04 06:12:40 2005,mod_jk child workerEnv in error state 6,E3,actionable
+192,Sun Dec 04 06:12:40 2005,mod_jk child workerEnv in error state 6,E3,actionable
+193,Sun Dec 04 06:12:40 2005,mod_jk child workerEnv in error state 7,E3,actionable
+194,Sun Dec 04 06:12:40 2005,mod_jk child workerEnv in error state 7,E3,actionable
+195,Sun Dec 04 06:12:59 2005,jk2_init() Found child 32425 in scoreboard slot 6,E1,noise
+196,Sun Dec 04 06:13:01 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+197,Sun Dec 04 06:13:01 2005,mod_jk child workerEnv in error state 6,E3,actionable
+198,Sun Dec 04 06:16:10 2005,jk2_init() Found child 32432 in scoreboard slot 7,E1,noise
+199,Sun Dec 04 06:16:10 2005,jk2_init() Found child 32434 in scoreboard slot 9,E1,noise
+200,Sun Dec 04 06:16:10 2005,jk2_init() Found child 32433 in scoreboard slot 8,E1,noise
+201,Sun Dec 04 06:16:21 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+202,Sun Dec 04 06:16:21 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+203,Sun Dec 04 06:16:23 2005,mod_jk child workerEnv in error state 6,E3,actionable
+204,Sun Dec 04 06:16:23 2005,mod_jk child workerEnv in error state 7,E3,actionable
+205,Sun Dec 04 06:16:21 2005,jk2_init() Found child 32435 in scoreboard slot 10,E1,noise
+206,Sun Dec 04 06:16:21 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+207,Sun Dec 04 06:16:23 2005,mod_jk child workerEnv in error state 6,E3,actionable
+208,Sun Dec 04 06:16:37 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+209,Sun Dec 04 06:16:39 2005,mod_jk child workerEnv in error state 6,E3,actionable
+210,Sun Dec 04 06:16:51 2005,jk2_init() Found child 32436 in scoreboard slot 6,E1,noise
+211,Sun Dec 04 06:16:51 2005,jk2_init() Found child 32437 in scoreboard slot 7,E1,noise
+212,Sun Dec 04 06:17:02 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+213,Sun Dec 04 06:17:02 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+214,Sun Dec 04 06:17:05 2005,mod_jk child workerEnv in error state 6,E3,actionable
+215,Sun Dec 04 06:17:06 2005,jk2_init() Found child 32438 in scoreboard slot 8,E1,noise
+216,Sun Dec 04 06:17:18 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+217,Sun Dec 04 06:17:24 2005,mod_jk child workerEnv in error state 6,E3,actionable
+218,Sun Dec 04 06:17:23 2005,jk2_init() Found child 32440 in scoreboard slot 10,E1,noise
+219,Sun Dec 04 06:17:23 2005,jk2_init() Found child 32439 in scoreboard slot 9,E1,noise
+220,Sun Dec 04 06:17:23 2005,jk2_init() Found child 32441 in scoreboard slot 6,E1,noise
+221,Sun Dec 04 06:17:33 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+222,Sun Dec 04 06:17:33 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+223,Sun Dec 04 06:17:35 2005,mod_jk child workerEnv in error state 6,E3,actionable
+224,Sun Dec 04 06:17:35 2005,mod_jk child workerEnv in error state 7,E3,actionable
+225,Sun Dec 04 06:17:55 2005,jk2_init() Found child 32442 in scoreboard slot 7,E1,noise
+226,Sun Dec 04 06:17:55 2005,jk2_init() Found child 32443 in scoreboard slot 8,E1,noise
+227,Sun Dec 04 06:17:55 2005,jk2_init() Found child 32444 in scoreboard slot 9,E1,noise
+228,Sun Dec 04 06:18:08 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+229,Sun Dec 04 06:18:08 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+230,Sun Dec 04 06:18:11 2005,mod_jk child workerEnv in error state 7,E3,actionable
+231,Sun Dec 04 06:18:11 2005,mod_jk child workerEnv in error state 6,E3,actionable
+232,Sun Dec 04 06:18:12 2005,jk2_init() Found child 32445 in scoreboard slot 10,E1,noise
+233,Sun Dec 04 06:18:23 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+234,Sun Dec 04 06:18:31 2005,mod_jk child workerEnv in error state 6,E3,actionable
+235,Sun Dec 04 06:18:41 2005,jk2_init() Found child 32447 in scoreboard slot 7,E1,noise
+236,Sun Dec 04 06:18:39 2005,jk2_init() Found child 32446 in scoreboard slot 6,E1,noise
+237,Sun Dec 04 06:18:40 2005,jk2_init() Found child 32448 in scoreboard slot 8,E1,noise
+238,Sun Dec 04 06:18:53 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+239,Sun Dec 04 06:18:53 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+240,Sun Dec 04 06:18:55 2005,mod_jk child workerEnv in error state 6,E3,actionable
+241,Sun Dec 04 06:18:55 2005,mod_jk child workerEnv in error state 7,E3,actionable
+242,Sun Dec 04 06:19:05 2005,jk2_init() Found child 32449 in scoreboard slot 9,E1,noise
+243,Sun Dec 04 06:19:15 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+244,Sun Dec 04 06:19:19 2005,jk2_init() Found child 32450 in scoreboard slot 10,E1,noise
+245,Sun Dec 04 06:19:18 2005,mod_jk child workerEnv in error state 6,E3,actionable
+246,Sun Dec 04 06:19:19 2005,jk2_init() Found child 32452 in scoreboard slot 7,E1,noise
+247,Sun Dec 04 06:19:19 2005,jk2_init() Found child 32451 in scoreboard slot 6,E1,noise
+248,Sun Dec 04 06:19:31 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+249,Sun Dec 04 06:19:31 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+250,Sun Dec 04 06:19:34 2005,mod_jk child workerEnv in error state 6,E3,actionable
+251,Sun Dec 04 06:19:34 2005,mod_jk child workerEnv in error state 7,E3,actionable
+252,Sun Dec 04 06:19:56 2005,jk2_init() Found child 32454 in scoreboard slot 7,E1,noise
+253,Sun Dec 04 06:19:56 2005,jk2_init() Found child 32453 in scoreboard slot 8,E1,noise
+254,Sun Dec 04 06:19:56 2005,jk2_init() Found child 32455 in scoreboard slot 9,E1,noise
+255,Sun Dec 04 06:20:30 2005,jk2_init() Found child 32467 in scoreboard slot 9,E1,noise
+256,Sun Dec 04 06:20:30 2005,jk2_init() Found child 32464 in scoreboard slot 8,E1,noise
+257,Sun Dec 04 06:20:30 2005,jk2_init() Found child 32465 in scoreboard slot 7,E1,noise
+258,Sun Dec 04 06:20:30 2005,jk2_init() Found child 32466 in scoreboard slot 11,E1,noise
+259,Sun Dec 04 06:20:30 2005,jk2_init() Found child 32457 in scoreboard slot 6,E1,noise
+260,Sun Dec 04 06:20:44 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+261,Sun Dec 04 06:20:44 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+262,Sun Dec 04 06:20:44 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+263,Sun Dec 04 06:20:46 2005,mod_jk child workerEnv in error state 6,E3,actionable
+264,Sun Dec 04 06:20:46 2005,mod_jk child workerEnv in error state 7,E3,actionable
+265,Sun Dec 04 06:20:46 2005,mod_jk child workerEnv in error state 8,E3,actionable
+266,Sun Dec 04 06:22:18 2005,jk2_init() Found child 32475 in scoreboard slot 8,E1,noise
+267,Sun Dec 04 06:22:48 2005,jk2_init() Found child 32478 in scoreboard slot 11,E1,noise
+268,Sun Dec 04 06:22:48 2005,jk2_init() Found child 32477 in scoreboard slot 10,E1,noise
+269,Sun Dec 04 06:22:48 2005,jk2_init() Found child 32479 in scoreboard slot 6,E1,noise
+270,Sun Dec 04 06:22:48 2005,jk2_init() Found child 32480 in scoreboard slot 8,E1,noise
+271,Sun Dec 04 06:22:48 2005,jk2_init() Found child 32476 in scoreboard slot 7,E1,noise
+272,Sun Dec 04 06:22:53 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+273,Sun Dec 04 06:22:53 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+274,Sun Dec 04 06:22:53 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+275,Sun Dec 04 06:22:53 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+276,Sun Dec 04 06:22:53 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+277,Sun Dec 04 06:22:55 2005,mod_jk child workerEnv in error state 6,E3,actionable
+278,Sun Dec 04 06:22:55 2005,mod_jk child workerEnv in error state 6,E3,actionable
+279,Sun Dec 04 06:22:55 2005,mod_jk child workerEnv in error state 6,E3,actionable
+280,Sun Dec 04 06:22:55 2005,mod_jk child workerEnv in error state 7,E3,actionable
+281,Sun Dec 04 06:22:55 2005,mod_jk child workerEnv in error state 8,E3,actionable
+282,Sun Dec 04 06:23:12 2005,jk2_init() Found child 32483 in scoreboard slot 7,E1,noise
+283,Sun Dec 04 06:23:15 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+284,Sun Dec 04 06:23:15 2005,mod_jk child workerEnv in error state 6,E3,actionable
+285,Sun Dec 04 06:30:41 2005,jk2_init() Found child 32507 in scoreboard slot 9,E1,noise
+286,Sun Dec 04 06:30:43 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+287,Sun Dec 04 06:30:43 2005,mod_jk child workerEnv in error state 6,E3,actionable
+288,Sun Dec 04 06:36:07 2005,jk2_init() Found child 32529 in scoreboard slot 6,E1,noise
+289,Sun Dec 04 06:36:07 2005,jk2_init() Found child 32528 in scoreboard slot 10,E1,noise
+290,Sun Dec 04 06:36:10 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+291,Sun Dec 04 06:36:10 2005,mod_jk child workerEnv in error state 6,E3,actionable
+292,Sun Dec 04 06:36:10 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+293,Sun Dec 04 06:36:10 2005,mod_jk child workerEnv in error state 6,E3,actionable
+294,Sun Dec 04 06:40:54 2005,jk2_init() Found child 32548 in scoreboard slot 9,E1,noise
+295,Sun Dec 04 06:40:54 2005,jk2_init() Found child 32546 in scoreboard slot 8,E1,noise
+296,Sun Dec 04 06:40:55 2005,jk2_init() Found child 32547 in scoreboard slot 7,E1,noise
+297,Sun Dec 04 06:41:04 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+298,Sun Dec 04 06:41:04 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+299,Sun Dec 04 06:41:04 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+300,Sun Dec 04 06:41:07 2005,mod_jk child workerEnv in error state 6,E3,actionable
+301,Sun Dec 04 06:41:08 2005,mod_jk child workerEnv in error state 6,E3,actionable
+302,Sun Dec 04 06:41:08 2005,mod_jk child workerEnv in error state 6,E3,actionable
+303,Sun Dec 04 06:41:29 2005,jk2_init() Found child 32549 in scoreboard slot 10,E1,noise
+304,Sun Dec 04 06:41:29 2005,jk2_init() Found child 32550 in scoreboard slot 6,E1,noise
+305,Sun Dec 04 06:41:45 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+306,Sun Dec 04 06:41:45 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+307,Sun Dec 04 06:41:46 2005,mod_jk child workerEnv in error state 6,E3,actionable
+308,Sun Dec 04 06:41:46 2005,mod_jk child workerEnv in error state 6,E3,actionable
+309,Sun Dec 04 06:42:11 2005,jk2_init() Found child 32551 in scoreboard slot 8,E1,noise
+310,Sun Dec 04 06:42:11 2005,jk2_init() Found child 32552 in scoreboard slot 7,E1,noise
+311,Sun Dec 04 06:42:25 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+312,Sun Dec 04 06:42:23 2005,jk2_init() Found child 32554 in scoreboard slot 10,E1,noise
+313,Sun Dec 04 06:42:25 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+314,Sun Dec 04 06:42:23 2005,jk2_init() Found child 32553 in scoreboard slot 9,E1,noise
+315,Sun Dec 04 06:42:30 2005,mod_jk child workerEnv in error state 6,E3,actionable
+316,Sun Dec 04 06:42:30 2005,mod_jk child workerEnv in error state 6,E3,actionable
+317,Sun Dec 04 06:42:53 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+318,Sun Dec 04 06:42:53 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+319,Sun Dec 04 06:42:58 2005,mod_jk child workerEnv in error state 6,E3,actionable
+320,Sun Dec 04 06:42:58 2005,mod_jk child workerEnv in error state 6,E3,actionable
+321,Sun Dec 04 06:43:20 2005,jk2_init() Found child 32556 in scoreboard slot 8,E1,noise
+322,Sun Dec 04 06:43:20 2005,jk2_init() Found child 32555 in scoreboard slot 6,E1,noise
+323,Sun Dec 04 06:43:20 2005,jk2_init() Found child 32557 in scoreboard slot 7,E1,noise
+324,Sun Dec 04 06:43:34 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+325,Sun Dec 04 06:43:34 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+326,Sun Dec 04 06:43:34 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+327,Sun Dec 04 06:43:40 2005,mod_jk child workerEnv in error state 6,E3,actionable
+328,Sun Dec 04 06:43:40 2005,mod_jk child workerEnv in error state 6,E3,actionable
+329,Sun Dec 04 06:43:56 2005,jk2_init() Found child 32558 in scoreboard slot 9,E1,noise
+330,Sun Dec 04 06:44:18 2005,jk2_init() Found child 32560 in scoreboard slot 6,E1,noise
+331,Sun Dec 04 06:44:18 2005,jk2_init() Found child 32561 in scoreboard slot 8,E1,noise
+332,Sun Dec 04 06:44:39 2005,jk2_init() Found child 32563 in scoreboard slot 9,E1,noise
+333,Sun Dec 04 06:44:39 2005,jk2_init() Found child 32564 in scoreboard slot 10,E1,noise
+334,Sun Dec 04 06:44:39 2005,jk2_init() Found child 32565 in scoreboard slot 11,E1,noise
+335,Sun Dec 04 06:45:32 2005,jk2_init() Found child 32575 in scoreboard slot 6,E1,noise
+336,Sun Dec 04 06:45:32 2005,jk2_init() Found child 32576 in scoreboard slot 7,E1,noise
+337,Sun Dec 04 06:45:32 2005,jk2_init() Found child 32569 in scoreboard slot 9,E1,noise
+338,Sun Dec 04 06:45:32 2005,jk2_init() Found child 32572 in scoreboard slot 10,E1,noise
+339,Sun Dec 04 06:45:32 2005,jk2_init() Found child 32577 in scoreboard slot 11,E1,noise
+340,Sun Dec 04 06:45:50 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+341,Sun Dec 04 06:45:50 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+342,Sun Dec 04 06:45:57 2005,mod_jk child workerEnv in error state 7,E3,actionable
+343,Sun Dec 04 06:46:13 2005,jk2_init() Found child 32578 in scoreboard slot 8,E1,noise
+344,Sun Dec 04 06:46:13 2005,jk2_init() Found child 32580 in scoreboard slot 6,E1,noise
+345,Sun Dec 04 06:46:12 2005,jk2_init() Found child 32581 in scoreboard slot 7,E1,noise
+346,Sun Dec 04 06:46:13 2005,jk2_init() Found child 32579 in scoreboard slot 9,E1,noise
+347,Sun Dec 04 06:46:30 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+348,Sun Dec 04 06:46:30 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+349,Sun Dec 04 06:46:31 2005,mod_jk child workerEnv in error state 8,E3,actionable
+350,Sun Dec 04 06:46:31 2005,mod_jk child workerEnv in error state 7,E3,actionable
+351,Sun Dec 04 06:46:32 2005,jk2_init() Found child 32582 in scoreboard slot 10,E1,noise
+352,Sun Dec 04 06:46:32 2005,jk2_init() Found child 32584 in scoreboard slot 9,E1,noise
+353,Sun Dec 04 06:46:32 2005,jk2_init() Found child 32583 in scoreboard slot 8,E1,noise
+354,Sun Dec 04 06:46:33 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+355,Sun Dec 04 06:46:33 2005,mod_jk child workerEnv in error state 8,E3,actionable
+356,Sun Dec 04 06:46:34 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+357,Sun Dec 04 06:46:34 2005,mod_jk child workerEnv in error state 10,E3,actionable
+358,Sun Dec 04 06:46:34 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+359,Sun Dec 04 06:46:34 2005,mod_jk child workerEnv in error state 8,E3,actionable
+360,Sun Dec 04 06:47:19 2005,jk2_init() Found child 32585 in scoreboard slot 6,E1,noise
+361,Sun Dec 04 06:47:30 2005,jk2_init() Found child 32587 in scoreboard slot 10,E1,noise
+362,Sun Dec 04 06:47:30 2005,jk2_init() Found child 32586 in scoreboard slot 7,E1,noise
+363,Sun Dec 04 06:47:34 2005,jk2_init() Found child 32588 in scoreboard slot 8,E1,noise
+364,Sun Dec 04 06:47:38 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+365,Sun Dec 04 06:47:39 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+366,Sun Dec 04 06:47:39 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+367,Sun Dec 04 06:47:43 2005,mod_jk child workerEnv in error state 6,E3,actionable
+368,Sun Dec 04 06:48:09 2005,jk2_init() Found child 32592 in scoreboard slot 10,E1,noise
+369,Sun Dec 04 06:48:09 2005,jk2_init() Found child 32591 in scoreboard slot 7,E1,noise
+370,Sun Dec 04 06:48:22 2005,jk2_init() Found child 32594 in scoreboard slot 6,E1,noise
+371,Sun Dec 04 06:48:22 2005,jk2_init() Found child 32593 in scoreboard slot 8,E1,noise
+372,Sun Dec 04 06:48:48 2005,jk2_init() Found child 32597 in scoreboard slot 10,E1,noise
+373,Sun Dec 04 06:49:06 2005,jk2_init() Found child 32600 in scoreboard slot 9,E1,noise
+374,Sun Dec 04 06:49:06 2005,jk2_init() Found child 32601 in scoreboard slot 7,E1,noise
+375,Sun Dec 04 06:49:23 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+376,Sun Dec 04 06:49:24 2005,mod_jk child workerEnv in error state 8,E3,actionable
+377,Sun Dec 04 06:49:40 2005,jk2_init() Found child 32605 in scoreboard slot 9,E1,noise
+378,Sun Dec 04 06:49:40 2005,jk2_init() Found child 32604 in scoreboard slot 6,E1,noise
+379,Sun Dec 04 06:51:13 2005,jk2_init() Found child 32622 in scoreboard slot 7,E1,noise
+380,Sun Dec 04 06:51:14 2005,jk2_init() Found child 32623 in scoreboard slot 11,E1,noise
+381,Sun Dec 04 06:51:13 2005,jk2_init() Found child 32624 in scoreboard slot 8,E1,noise
+382,Sun Dec 04 06:51:13 2005,jk2_init() Found child 32621 in scoreboard slot 9,E1,noise
+383,Sun Dec 04 06:51:23 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+384,Sun Dec 04 06:51:23 2005,mod_jk child workerEnv in error state 7,E3,actionable
+385,Sun Dec 04 06:51:23 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+386,Sun Dec 04 06:51:23 2005,mod_jk child workerEnv in error state 6,E3,actionable
+387,Sun Dec 04 06:51:23 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+388,Sun Dec 04 06:51:23 2005,mod_jk child workerEnv in error state 8,E3,actionable
+389,Sun Dec 04 06:51:23 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+390,Sun Dec 04 06:51:23 2005,mod_jk child workerEnv in error state 6,E3,actionable
+391,Sun Dec 04 06:51:25 2005,jk2_init() Found child 32626 in scoreboard slot 6,E1,noise
+392,Sun Dec 04 06:51:26 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+393,Sun Dec 04 06:51:26 2005,mod_jk child workerEnv in error state 9,E3,actionable
+394,Sun Dec 04 06:52:07 2005,jk2_init() Found child 32627 in scoreboard slot 9,E1,noise
+395,Sun Dec 04 06:52:08 2005,jk2_init() Found child 32628 in scoreboard slot 7,E1,noise
+396,Sun Dec 04 06:52:13 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+397,Sun Dec 04 06:52:14 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+398,Sun Dec 04 06:52:15 2005,mod_jk child workerEnv in error state 6,E3,actionable
+399,Sun Dec 04 06:52:15 2005,mod_jk child workerEnv in error state 6,E3,actionable
+400,Sun Dec 04 06:52:27 2005,jk2_init() Found child 32630 in scoreboard slot 8,E1,noise
+401,Sun Dec 04 06:52:27 2005,jk2_init() Found child 32629 in scoreboard slot 10,E1,noise
+402,Sun Dec 04 06:52:39 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+403,Sun Dec 04 06:52:39 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+404,Sun Dec 04 06:52:41 2005,mod_jk child workerEnv in error state 9,E3,actionable
+405,Sun Dec 04 06:52:41 2005,mod_jk child workerEnv in error state 6,E3,actionable
+406,Sun Dec 04 06:53:04 2005,jk2_init() Found child 32633 in scoreboard slot 9,E1,noise
+407,Sun Dec 04 06:53:04 2005,jk2_init() Found child 32634 in scoreboard slot 11,E1,noise
+408,Sun Dec 04 06:53:04 2005,jk2_init() Found child 32632 in scoreboard slot 7,E1,noise
+409,Sun Dec 04 06:53:23 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+410,Sun Dec 04 06:53:26 2005,mod_jk child workerEnv in error state 6,E3,actionable
+411,Sun Dec 04 06:53:38 2005,jk2_init() Found child 32636 in scoreboard slot 6,E1,noise
+412,Sun Dec 04 06:53:37 2005,jk2_init() Found child 32637 in scoreboard slot 7,E1,noise
+413,Sun Dec 04 06:53:37 2005,jk2_init() Found child 32638 in scoreboard slot 9,E1,noise
+414,Sun Dec 04 06:54:04 2005,jk2_init() Found child 32640 in scoreboard slot 8,E1,noise
+415,Sun Dec 04 06:54:04 2005,jk2_init() Found child 32641 in scoreboard slot 6,E1,noise
+416,Sun Dec 04 06:54:04 2005,jk2_init() Found child 32642 in scoreboard slot 7,E1,noise
+417,Sun Dec 04 06:54:35 2005,jk2_init() Found child 32646 in scoreboard slot 6,E1,noise
+418,Sun Dec 04 06:55:00 2005,jk2_init() Found child 32648 in scoreboard slot 9,E1,noise
+419,Sun Dec 04 06:55:00 2005,jk2_init() Found child 32652 in scoreboard slot 7,E1,noise
+420,Sun Dec 04 06:55:00 2005,jk2_init() Found child 32649 in scoreboard slot 10,E1,noise
+421,Sun Dec 04 06:55:00 2005,jk2_init() Found child 32651 in scoreboard slot 6,E1,noise
+422,Sun Dec 04 06:55:00 2005,jk2_init() Found child 32650 in scoreboard slot 8,E1,noise
+423,Sun Dec 04 06:55:19 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+424,Sun Dec 04 06:55:19 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+425,Sun Dec 04 06:55:19 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+426,Sun Dec 04 06:55:23 2005,mod_jk child workerEnv in error state 6,E3,actionable
+427,Sun Dec 04 06:55:23 2005,mod_jk child workerEnv in error state 8,E3,actionable
+428,Sun Dec 04 06:55:23 2005,mod_jk child workerEnv in error state 9,E3,actionable
+429,Sun Dec 04 06:55:55 2005,jk2_init() Found child 32660 in scoreboard slot 6,E1,noise
+430,Sun Dec 04 06:55:54 2005,jk2_init() Found child 32658 in scoreboard slot 10,E1,noise
+431,Sun Dec 04 06:55:54 2005,jk2_init() Found child 32659 in scoreboard slot 8,E1,noise
+432,Sun Dec 04 06:55:54 2005,jk2_init() Found child 32657 in scoreboard slot 9,E1,noise
+433,Sun Dec 04 06:56:10 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+434,Sun Dec 04 06:56:17 2005,mod_jk child workerEnv in error state 6,E3,actionable
+435,Sun Dec 04 06:56:37 2005,jk2_init() Found child 32663 in scoreboard slot 10,E1,noise
+436,Sun Dec 04 06:56:37 2005,jk2_init() Found child 32664 in scoreboard slot 8,E1,noise
+437,Sun Dec 04 06:57:19 2005,jk2_init() Found child 32670 in scoreboard slot 6,E1,noise
+438,Sun Dec 04 06:57:19 2005,jk2_init() Found child 32667 in scoreboard slot 9,E1,noise
+439,Sun Dec 04 06:57:19 2005,jk2_init() Found child 32668 in scoreboard slot 10,E1,noise
+440,Sun Dec 04 06:57:19 2005,jk2_init() Found child 32669 in scoreboard slot 8,E1,noise
+441,Sun Dec 04 06:57:19 2005,jk2_init() Found child 32671 in scoreboard slot 7,E1,noise
+442,Sun Dec 04 06:57:23 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+443,Sun Dec 04 06:57:23 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+444,Sun Dec 04 06:57:23 2005,mod_jk child workerEnv in error state 6,E3,actionable
+445,Sun Dec 04 06:57:23 2005,mod_jk child workerEnv in error state 6,E3,actionable
+446,Sun Dec 04 06:57:23 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+447,Sun Dec 04 06:57:23 2005,mod_jk child workerEnv in error state 9,E3,actionable
+448,Sun Dec 04 06:57:23 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+449,Sun Dec 04 06:57:23 2005,mod_jk child workerEnv in error state 8,E3,actionable
+450,Sun Dec 04 06:57:24 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+451,Sun Dec 04 06:57:24 2005,mod_jk child workerEnv in error state 9,E3,actionable
+452,Sun Dec 04 06:58:12 2005,jk2_init() Found child 32674 in scoreboard slot 8,E1,noise
+453,Sun Dec 04 06:58:13 2005,jk2_init() Found child 32672 in scoreboard slot 9,E1,noise
+454,Sun Dec 04 06:58:13 2005,jk2_init() Found child 32673 in scoreboard slot 10,E1,noise
+455,Sun Dec 04 06:58:27 2005,jk2_init() Found child 32675 in scoreboard slot 6,E1,noise
+456,Sun Dec 04 06:58:28 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+457,Sun Dec 04 06:58:28 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+458,Sun Dec 04 06:58:29 2005,mod_jk child workerEnv in error state 6,E3,actionable
+459,Sun Dec 04 06:58:29 2005,mod_jk child workerEnv in error state 6,E3,actionable
+460,Sun Dec 04 06:58:51 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+461,Sun Dec 04 06:58:53 2005,mod_jk child workerEnv in error state 6,E3,actionable
+462,Sun Dec 04 06:58:54 2005,jk2_init() Found child 32677 in scoreboard slot 7,E1,noise
+463,Sun Dec 04 06:58:54 2005,jk2_init() Found child 32676 in scoreboard slot 9,E1,noise
+464,Sun Dec 04 06:58:54 2005,jk2_init() Found child 32678 in scoreboard slot 10,E1,noise
+465,Sun Dec 04 06:59:28 2005,jk2_init() Found child 32679 in scoreboard slot 8,E1,noise
+466,Sun Dec 04 06:59:28 2005,jk2_init() Found child 32680 in scoreboard slot 6,E1,noise
+467,Sun Dec 04 06:59:34 2005,jk2_init() Found child 32681 in scoreboard slot 9,E1,noise
+468,Sun Dec 04 06:59:34 2005,jk2_init() Found child 32682 in scoreboard slot 7,E1,noise
+469,Sun Dec 04 06:59:38 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+470,Sun Dec 04 06:59:40 2005,mod_jk child workerEnv in error state 6,E3,actionable
+471,Sun Dec 04 06:59:45 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+472,Sun Dec 04 06:59:45 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+473,Sun Dec 04 06:59:47 2005,mod_jk child workerEnv in error state 8,E3,actionable
+474,Sun Dec 04 06:59:47 2005,mod_jk child workerEnv in error state 7,E3,actionable
+475,Sun Dec 04 06:59:59 2005,jk2_init() Found child 32683 in scoreboard slot 10,E1,noise
+476,Sun Dec 04 07:00:06 2005,jk2_init() Found child 32685 in scoreboard slot 6,E1,noise
+477,Sun Dec 04 07:00:32 2005,jk2_init() Found child 32688 in scoreboard slot 11,E1,noise
+478,Sun Dec 04 07:00:32 2005,jk2_init() Found child 32695 in scoreboard slot 8,E1,noise
+479,Sun Dec 04 07:00:32 2005,jk2_init() Found child 32696 in scoreboard slot 6,E1,noise
+480,Sun Dec 04 07:01:25 2005,jk2_init() Found child 32701 in scoreboard slot 10,E1,noise
+481,Sun Dec 04 07:01:26 2005,jk2_init() Found child 32702 in scoreboard slot 11,E1,noise
+482,Sun Dec 04 07:01:55 2005,jk2_init() Found child 32711 in scoreboard slot 10,E1,noise
+483,Sun Dec 04 07:01:55 2005,jk2_init() Found child 32708 in scoreboard slot 7,E1,noise
+484,Sun Dec 04 07:01:55 2005,jk2_init() Found child 32710 in scoreboard slot 9,E1,noise
+485,Sun Dec 04 07:01:55 2005,jk2_init() Found child 32709 in scoreboard slot 8,E1,noise
+486,Sun Dec 04 07:01:57 2005,jk2_init() Found child 32712 in scoreboard slot 6,E1,noise
+487,Sun Dec 04 07:02:01 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+488,Sun Dec 04 07:02:01 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+489,Sun Dec 04 07:02:01 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+490,Sun Dec 04 07:02:01 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+491,Sun Dec 04 07:02:01 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+492,Sun Dec 04 07:02:03 2005,mod_jk child workerEnv in error state 9,E3,actionable
+493,Sun Dec 04 07:02:03 2005,mod_jk child workerEnv in error state 8,E3,actionable
+494,Sun Dec 04 07:02:03 2005,mod_jk child workerEnv in error state 8,E3,actionable
+495,Sun Dec 04 07:02:03 2005,mod_jk child workerEnv in error state 6,E3,actionable
+496,Sun Dec 04 07:02:03 2005,mod_jk child workerEnv in error state 6,E3,actionable
+497,Sun Dec 04 07:02:52 2005,jk2_init() Found child 32713 in scoreboard slot 7,E1,noise
+498,Sun Dec 04 07:03:23 2005,jk2_init() Found child 32717 in scoreboard slot 10,E1,noise
+499,Sun Dec 04 07:03:48 2005,jk2_init() Found child 32720 in scoreboard slot 8,E1,noise
+500,Sun Dec 04 07:04:27 2005,jk2_init() Found child 32726 in scoreboard slot 8,E1,noise
+501,Sun Dec 04 07:04:55 2005,jk2_init() Found child 32730 in scoreboard slot 7,E1,noise
+502,Sun Dec 04 07:04:55 2005,jk2_init() Found child 32729 in scoreboard slot 6,E1,noise
+503,Sun Dec 04 07:04:55 2005,jk2_init() Found child 32731 in scoreboard slot 8,E1,noise
+504,Sun Dec 04 07:05:44 2005,jk2_init() Found child 32739 in scoreboard slot 7,E1,noise
+505,Sun Dec 04 07:05:44 2005,jk2_init() Found child 32740 in scoreboard slot 8,E1,noise
+506,Sun Dec 04 07:06:11 2005,jk2_init() Found child 32742 in scoreboard slot 10,E1,noise
+507,Sun Dec 04 07:07:23 2005,jk2_init() Found child 32758 in scoreboard slot 7,E1,noise
+508,Sun Dec 04 07:07:23 2005,jk2_init() Found child 32755 in scoreboard slot 8,E1,noise
+509,Sun Dec 04 07:07:23 2005,jk2_init() Found child 32754 in scoreboard slot 11,E1,noise
+510,Sun Dec 04 07:07:30 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+511,Sun Dec 04 07:07:30 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+512,Sun Dec 04 07:07:30 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+513,Sun Dec 04 07:07:30 2005,mod_jk child workerEnv in error state 9,E3,actionable
+514,Sun Dec 04 07:07:30 2005,mod_jk child workerEnv in error state 10,E3,actionable
+515,Sun Dec 04 07:07:30 2005,mod_jk child workerEnv in error state 8,E3,actionable
+516,Sun Dec 04 07:08:02 2005,jk2_init() Found child 32761 in scoreboard slot 6,E1,noise
+517,Sun Dec 04 07:08:02 2005,jk2_init() Found child 32762 in scoreboard slot 9,E1,noise
+518,Sun Dec 04 07:08:02 2005,jk2_init() Found child 32763 in scoreboard slot 10,E1,noise
+519,Sun Dec 04 07:08:04 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+520,Sun Dec 04 07:08:04 2005,mod_jk child workerEnv in error state 7,E3,actionable
+521,Sun Dec 04 07:08:04 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+522,Sun Dec 04 07:08:04 2005,mod_jk child workerEnv in error state 6,E3,actionable
+523,Sun Dec 04 07:08:04 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+524,Sun Dec 04 07:08:04 2005,mod_jk child workerEnv in error state 7,E3,actionable
+525,Sun Dec 04 07:10:54 2005,jk2_init() Found child 308 in scoreboard slot 8,E1,noise
+526,Sun Dec 04 07:11:04 2005,jk2_init() Found child 310 in scoreboard slot 6,E1,noise
+527,Sun Dec 04 07:11:04 2005,jk2_init() Found child 309 in scoreboard slot 7,E1,noise
+528,Sun Dec 04 07:11:05 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+529,Sun Dec 04 07:11:05 2005,mod_jk child workerEnv in error state 6,E3,actionable
+530,Sun Dec 04 07:11:13 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+531,Sun Dec 04 07:11:13 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+532,Sun Dec 04 07:11:22 2005,mod_jk child workerEnv in error state 6,E3,actionable
+533,Sun Dec 04 07:11:22 2005,mod_jk child workerEnv in error state 6,E3,actionable
+534,Sun Dec 04 07:11:49 2005,jk2_init() Found child 311 in scoreboard slot 9,E1,noise
+535,Sun Dec 04 07:12:05 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+536,Sun Dec 04 07:12:08 2005,mod_jk child workerEnv in error state 6,E3,actionable
+537,Sun Dec 04 07:12:22 2005,jk2_init() Found child 312 in scoreboard slot 10,E1,noise
+538,Sun Dec 04 07:12:22 2005,jk2_init() Found child 313 in scoreboard slot 8,E1,noise
+539,Sun Dec 04 07:12:40 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+540,Sun Dec 04 07:12:40 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+541,Sun Dec 04 07:12:44 2005,mod_jk child workerEnv in error state 6,E3,actionable
+542,Sun Dec 04 07:12:44 2005,mod_jk child workerEnv in error state 6,E3,actionable
+543,Sun Dec 04 07:13:09 2005,jk2_init() Found child 314 in scoreboard slot 7,E1,noise
+544,Sun Dec 04 07:13:09 2005,jk2_init() Found child 315 in scoreboard slot 6,E1,noise
+545,Sun Dec 04 07:13:10 2005,jk2_init() Found child 316 in scoreboard slot 9,E1,noise
+546,Sun Dec 04 07:13:36 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+547,Sun Dec 04 07:13:36 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+548,Sun Dec 04 07:13:36 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+549,Sun Dec 04 07:13:41 2005,mod_jk child workerEnv in error state 6,E3,actionable
+550,Sun Dec 04 07:13:41 2005,mod_jk child workerEnv in error state 6,E3,actionable
+551,Sun Dec 04 07:14:07 2005,jk2_init() Found child 319 in scoreboard slot 7,E1,noise
+552,Sun Dec 04 07:14:07 2005,jk2_init() Found child 317 in scoreboard slot 10,E1,noise
+553,Sun Dec 04 07:14:08 2005,jk2_init() Found child 318 in scoreboard slot 8,E1,noise
+554,Sun Dec 04 07:14:21 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+555,Sun Dec 04 07:14:29 2005,mod_jk child workerEnv in error state 7,E3,actionable
+556,Sun Dec 04 07:14:47 2005,jk2_init() Found child 321 in scoreboard slot 9,E1,noise
+557,Sun Dec 04 07:15:09 2005,jk2_init() Found child 324 in scoreboard slot 11,E1,noise
+558,Sun Dec 04 07:15:09 2005,jk2_init() Found child 323 in scoreboard slot 8,E1,noise
+559,Sun Dec 04 07:17:56 2005,jk2_init() Found child 350 in scoreboard slot 9,E1,noise
+560,Sun Dec 04 07:17:56 2005,jk2_init() Found child 353 in scoreboard slot 12,E1,noise
+561,Sun Dec 04 07:17:56 2005,jk2_init() Found child 352 in scoreboard slot 11,E1,noise
+562,Sun Dec 04 07:17:56 2005,jk2_init() Found child 349 in scoreboard slot 8,E1,noise
+563,Sun Dec 04 07:17:56 2005,jk2_init() Found child 348 in scoreboard slot 7,E1,noise
+564,Sun Dec 04 07:17:56 2005,jk2_init() Found child 347 in scoreboard slot 6,E1,noise
+565,Sun Dec 04 07:17:56 2005,jk2_init() Found child 351 in scoreboard slot 10,E1,noise
+566,Sun Dec 04 07:18:00 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+567,Sun Dec 04 07:18:00 2005,mod_jk child workerEnv in error state 7,E3,actionable
+568,Sun Dec 04 07:18:00 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+569,Sun Dec 04 07:18:00 2005,mod_jk child workerEnv in error state 6,E3,actionable
+570,Sun Dec 04 07:18:00 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+571,Sun Dec 04 07:18:00 2005,mod_jk child workerEnv in error state 7,E3,actionable
+572,Sun Dec 04 07:18:00 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+573,Sun Dec 04 07:18:00 2005,mod_jk child workerEnv in error state 8,E3,actionable
+574,Sun Dec 04 07:18:00 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+575,Sun Dec 04 07:18:00 2005,mod_jk child workerEnv in error state 7,E3,actionable
+576,Sun Dec 04 07:18:00 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+577,Sun Dec 04 07:18:00 2005,mod_jk child workerEnv in error state 6,E3,actionable
+578,Sun Dec 04 07:18:00 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+579,Sun Dec 04 07:18:00 2005,mod_jk child workerEnv in error state 7,E3,actionable
+580,Sun Dec 04 07:45:45 2005,[client 63.13.186.196] Directory index forbidden by rule: /var/www/html/,E4,noise
+581,Sun Dec 04 08:54:17 2005,[client 147.31.138.75] Directory index forbidden by rule: /var/www/html/,E4,noise
+582,Sun Dec 04 09:35:12 2005,[client 207.203.80.15] Directory index forbidden by rule: /var/www/html/,E4,noise
+583,Sun Dec 04 10:53:30 2005,[client 218.76.139.20] Directory index forbidden by rule: /var/www/html/,E4,noise
+584,Sun Dec 04 11:11:07 2005,[client 24.147.151.74] Directory index forbidden by rule: /var/www/html/,E4,noise
+585,Sun Dec 04 11:33:18 2005,[client 211.141.93.88] Directory index forbidden by rule: /var/www/html/,E4,noise
+586,Sun Dec 04 11:42:43 2005,[client 216.127.124.16] Directory index forbidden by rule: /var/www/html/,E4,noise
+587,Sun Dec 04 12:33:13 2005,[client 208.51.151.210] Directory index forbidden by rule: /var/www/html/,E4,noise
+588,Sun Dec 04 13:32:32 2005,[client 65.68.235.27] Directory index forbidden by rule: /var/www/html/,E4,noise
+589,Sun Dec 04 14:29:00 2005,[client 4.245.93.87] Directory index forbidden by rule: /var/www/html/,E4,noise
+590,Sun Dec 04 15:18:36 2005,[client 67.154.58.130] Directory index forbidden by rule: /var/www/html/,E4,noise
+591,Sun Dec 04 15:59:01 2005,[client 24.83.37.136] Directory index forbidden by rule: /var/www/html/,E4,noise
+592,Sun Dec 04 16:24:03 2005,jk2_init() Found child 1219 in scoreboard slot 6,E1,noise
+593,Sun Dec 04 16:24:05 2005,[client 58.225.62.140] Directory index forbidden by rule: /var/www/html/,E4,noise
+594,Sun Dec 04 16:24:06 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+595,Sun Dec 04 16:24:06 2005,mod_jk child workerEnv in error state 6,E3,actionable
+596,Sun Dec 04 16:31:07 2005,jk2_init() Found child 1248 in scoreboard slot 7,E1,noise
+597,Sun Dec 04 16:32:37 2005,jk2_init() Found child 1253 in scoreboard slot 9,E1,noise
+598,Sun Dec 04 16:32:56 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+599,Sun Dec 04 16:32:56 2005,mod_jk child workerEnv in error state 6,E3,actionable
+600,Sun Dec 04 16:32:58 2005,jk2_init() Found child 1254 in scoreboard slot 7,E1,noise
+601,Sun Dec 04 16:32:58 2005,jk2_init() Found child 1256 in scoreboard slot 6,E1,noise
+602,Sun Dec 04 16:32:58 2005,jk2_init() Found child 1255 in scoreboard slot 8,E1,noise
+603,Sun Dec 04 16:32:58 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+604,Sun Dec 04 16:32:58 2005,mod_jk child workerEnv in error state 7,E3,actionable
+605,Sun Dec 04 16:32:58 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+606,Sun Dec 04 16:32:58 2005,mod_jk child workerEnv in error state 6,E3,actionable
+607,Sun Dec 04 16:32:58 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+608,Sun Dec 04 16:32:58 2005,mod_jk child workerEnv in error state 6,E3,actionable
+609,Sun Dec 04 16:35:49 2005,jk2_init() Found child 1262 in scoreboard slot 9,E1,noise
+610,Sun Dec 04 16:35:52 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+611,Sun Dec 04 16:35:52 2005,mod_jk child workerEnv in error state 6,E3,actionable
+612,Sun Dec 04 16:41:15 2005,jk2_init() Found child 1275 in scoreboard slot 6,E1,noise
+613,Sun Dec 04 16:41:16 2005,jk2_init() Found child 1276 in scoreboard slot 9,E1,noise
+614,Sun Dec 04 16:41:22 2005,jk2_init() Found child 1277 in scoreboard slot 7,E1,noise
+615,Sun Dec 04 16:41:22 2005,jk2_init() Found child 1278 in scoreboard slot 8,E1,noise
+616,Sun Dec 04 16:41:22 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+617,Sun Dec 04 16:41:22 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+618,Sun Dec 04 16:41:22 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+619,Sun Dec 04 16:41:22 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+620,Sun Dec 04 16:41:22 2005,mod_jk child workerEnv in error state 6,E3,actionable
+621,Sun Dec 04 16:41:22 2005,mod_jk child workerEnv in error state 6,E3,actionable
+622,Sun Dec 04 16:41:22 2005,mod_jk child workerEnv in error state 6,E3,actionable
+623,Sun Dec 04 16:41:22 2005,mod_jk child workerEnv in error state 6,E3,actionable
+624,Sun Dec 04 16:45:52 2005,jk2_init() Found child 1283 in scoreboard slot 6,E1,noise
+625,Sun Dec 04 16:45:52 2005,jk2_init() Found child 1284 in scoreboard slot 9,E1,noise
+626,Sun Dec 04 16:46:09 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+627,Sun Dec 04 16:46:13 2005,mod_jk child workerEnv in error state 6,E3,actionable
+628,Sun Dec 04 16:46:45 2005,jk2_init() Found child 1288 in scoreboard slot 9,E1,noise
+629,Sun Dec 04 16:47:11 2005,jk2_init() Found child 1291 in scoreboard slot 6,E1,noise
+630,Sun Dec 04 16:47:59 2005,jk2_init() Found child 1296 in scoreboard slot 6,E1,noise
+631,Sun Dec 04 16:47:59 2005,jk2_init() Found child 1300 in scoreboard slot 10,E1,noise
+632,Sun Dec 04 16:47:59 2005,jk2_init() Found child 1298 in scoreboard slot 8,E1,noise
+633,Sun Dec 04 16:47:59 2005,jk2_init() Found child 1297 in scoreboard slot 7,E1,noise
+634,Sun Dec 04 16:47:59 2005,jk2_init() Found child 1299 in scoreboard slot 9,E1,noise
+635,Sun Dec 04 16:48:01 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+636,Sun Dec 04 16:48:01 2005,mod_jk child workerEnv in error state 8,E3,actionable
+637,Sun Dec 04 16:48:01 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+638,Sun Dec 04 16:48:01 2005,mod_jk child workerEnv in error state 7,E3,actionable
+639,Sun Dec 04 16:48:01 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+640,Sun Dec 04 16:48:01 2005,mod_jk child workerEnv in error state 6,E3,actionable
+641,Sun Dec 04 16:48:01 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+642,Sun Dec 04 16:48:01 2005,mod_jk child workerEnv in error state 6,E3,actionable
+643,Sun Dec 04 16:48:01 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+644,Sun Dec 04 16:48:01 2005,mod_jk child workerEnv in error state 6,E3,actionable
+645,Sun Dec 04 16:50:53 2005,jk2_init() Found child 1308 in scoreboard slot 6,E1,noise
+646,Sun Dec 04 16:50:53 2005,jk2_init() Found child 1309 in scoreboard slot 7,E1,noise
+647,Sun Dec 04 16:51:26 2005,jk2_init() Found child 1313 in scoreboard slot 6,E1,noise
+648,Sun Dec 04 16:51:26 2005,jk2_init() Found child 1312 in scoreboard slot 10,E1,noise
+649,Sun Dec 04 16:52:34 2005,jk2_init() Found child 1320 in scoreboard slot 8,E1,noise
+650,Sun Dec 04 16:52:45 2005,jk2_init() Found child 1321 in scoreboard slot 9,E1,noise
+651,Sun Dec 04 16:52:45 2005,jk2_init() Found child 1322 in scoreboard slot 10,E1,noise
+652,Sun Dec 04 16:52:45 2005,jk2_init() Found child 1323 in scoreboard slot 6,E1,noise
+653,Sun Dec 04 16:52:46 2005,jk2_init() Found child 1324 in scoreboard slot 7,E1,noise
+654,Sun Dec 04 16:52:46 2005,jk2_init() Found child 1325 in scoreboard slot 8,E1,noise
+655,Sun Dec 04 16:52:49 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+656,Sun Dec 04 16:52:49 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+657,Sun Dec 04 16:52:49 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+658,Sun Dec 04 16:52:49 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+659,Sun Dec 04 16:52:49 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+660,Sun Dec 04 16:52:49 2005,mod_jk child workerEnv in error state 6,E3,actionable
+661,Sun Dec 04 16:52:49 2005,mod_jk child workerEnv in error state 7,E3,actionable
+662,Sun Dec 04 16:52:49 2005,mod_jk child workerEnv in error state 7,E3,actionable
+663,Sun Dec 04 16:52:49 2005,mod_jk child workerEnv in error state 8,E3,actionable
+664,Sun Dec 04 16:52:49 2005,mod_jk child workerEnv in error state 6,E3,actionable
+665,Sun Dec 04 16:55:54 2005,jk2_init() Found child 1331 in scoreboard slot 10,E1,noise
+666,Sun Dec 04 16:56:25 2005,jk2_init() Found child 1338 in scoreboard slot 7,E1,noise
+667,Sun Dec 04 16:56:25 2005,jk2_init() Found child 1334 in scoreboard slot 8,E1,noise
+668,Sun Dec 04 16:56:25 2005,jk2_init() Found child 1336 in scoreboard slot 10,E1,noise
+669,Sun Dec 04 16:56:25 2005,jk2_init() Found child 1337 in scoreboard slot 6,E1,noise
+670,Sun Dec 04 16:56:25 2005,jk2_init() Found child 1335 in scoreboard slot 9,E1,noise
+671,Sun Dec 04 16:56:27 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+672,Sun Dec 04 16:56:27 2005,mod_jk child workerEnv in error state 6,E3,actionable
+673,Sun Dec 04 16:56:27 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+674,Sun Dec 04 16:56:27 2005,mod_jk child workerEnv in error state 7,E3,actionable
+675,Sun Dec 04 16:56:27 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+676,Sun Dec 04 16:56:27 2005,mod_jk child workerEnv in error state 6,E3,actionable
+677,Sun Dec 04 16:56:27 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+678,Sun Dec 04 16:56:27 2005,mod_jk child workerEnv in error state 6,E3,actionable
+679,Sun Dec 04 16:56:27 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+680,Sun Dec 04 16:56:27 2005,mod_jk child workerEnv in error state 6,E3,actionable
+681,Sun Dec 04 17:01:43 2005,jk2_init() Found child 1358 in scoreboard slot 8,E1,noise
+682,Sun Dec 04 17:01:43 2005,jk2_init() Found child 1356 in scoreboard slot 6,E1,noise
+683,Sun Dec 04 17:01:43 2005,jk2_init() Found child 1354 in scoreboard slot 9,E1,noise
+684,Sun Dec 04 17:01:43 2005,jk2_init() Found child 1357 in scoreboard slot 7,E1,noise
+685,Sun Dec 04 17:01:43 2005,jk2_init() Found child 1355 in scoreboard slot 10,E1,noise
+686,Sun Dec 04 17:01:47 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+687,Sun Dec 04 17:01:47 2005,mod_jk child workerEnv in error state 6,E3,actionable
+688,Sun Dec 04 17:01:47 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+689,Sun Dec 04 17:01:47 2005,mod_jk child workerEnv in error state 6,E3,actionable
+690,Sun Dec 04 17:01:47 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+691,Sun Dec 04 17:01:47 2005,mod_jk child workerEnv in error state 6,E3,actionable
+692,Sun Dec 04 17:01:47 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+693,Sun Dec 04 17:01:47 2005,mod_jk child workerEnv in error state 6,E3,actionable
+694,Sun Dec 04 17:01:47 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+695,Sun Dec 04 17:01:47 2005,mod_jk child workerEnv in error state 6,E3,actionable
+696,Sun Dec 04 17:05:45 2005,jk2_init() Found child 1375 in scoreboard slot 9,E1,noise
+697,Sun Dec 04 17:05:45 2005,jk2_init() Found child 1376 in scoreboard slot 10,E1,noise
+698,Sun Dec 04 17:05:45 2005,jk2_init() Found child 1377 in scoreboard slot 6,E1,noise
+699,Sun Dec 04 17:05:48 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+700,Sun Dec 04 17:05:48 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+701,Sun Dec 04 17:05:48 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+702,Sun Dec 04 17:05:48 2005,mod_jk child workerEnv in error state 6,E3,actionable
+703,Sun Dec 04 17:05:48 2005,mod_jk child workerEnv in error state 6,E3,actionable
+704,Sun Dec 04 17:05:48 2005,mod_jk child workerEnv in error state 6,E3,actionable
+705,Sun Dec 04 17:11:23 2005,jk2_init() Found child 1387 in scoreboard slot 7,E1,noise
+706,Sun Dec 04 17:11:37 2005,jk2_init() Found child 1390 in scoreboard slot 10,E1,noise
+707,Sun Dec 04 17:11:37 2005,jk2_init() Found child 1388 in scoreboard slot 8,E1,noise
+708,Sun Dec 04 17:11:37 2005,jk2_init() Found child 1389 in scoreboard slot 9,E1,noise
+709,Sun Dec 04 17:12:42 2005,jk2_init() Found child 1393 in scoreboard slot 8,E1,noise
+710,Sun Dec 04 17:12:50 2005,jk2_init() Found child 1395 in scoreboard slot 10,E1,noise
+711,Sun Dec 04 17:12:50 2005,jk2_init() Found child 1396 in scoreboard slot 6,E1,noise
+712,Sun Dec 04 17:12:50 2005,jk2_init() Found child 1394 in scoreboard slot 9,E1,noise
+713,Sun Dec 04 17:12:54 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+714,Sun Dec 04 17:12:54 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+715,Sun Dec 04 17:12:54 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+716,Sun Dec 04 17:12:54 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+717,Sun Dec 04 17:12:55 2005,mod_jk child workerEnv in error state 6,E3,actionable
+718,Sun Dec 04 17:12:55 2005,mod_jk child workerEnv in error state 7,E3,actionable
+719,Sun Dec 04 17:12:55 2005,mod_jk child workerEnv in error state 7,E3,actionable
+720,Sun Dec 04 17:12:55 2005,mod_jk child workerEnv in error state 7,E3,actionable
+721,Sun Dec 04 17:12:56 2005,jk2_init() Found child 1397 in scoreboard slot 7,E1,noise
+722,Sun Dec 04 17:12:57 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+723,Sun Dec 04 17:12:57 2005,mod_jk child workerEnv in error state 7,E3,actionable
+724,Sun Dec 04 17:17:07 2005,jk2_init() Found child 1414 in scoreboard slot 7,E1,noise
+725,Sun Dec 04 17:17:07 2005,jk2_init() Found child 1412 in scoreboard slot 10,E1,noise
+726,Sun Dec 04 17:17:07 2005,jk2_init() Found child 1413 in scoreboard slot 6,E1,noise
+727,Sun Dec 04 17:20:38 2005,jk2_init() Found child 1448 in scoreboard slot 6,E1,noise
+728,Sun Dec 04 17:20:38 2005,jk2_init() Found child 1439 in scoreboard slot 7,E1,noise
+729,Sun Dec 04 17:20:38 2005,jk2_init() Found child 1441 in scoreboard slot 9,E1,noise
+730,Sun Dec 04 17:20:38 2005,jk2_init() Found child 1450 in scoreboard slot 11,E1,noise
+731,Sun Dec 04 17:20:39 2005,jk2_init() Found child 1449 in scoreboard slot 10,E1,noise
+732,Sun Dec 04 17:20:39 2005,jk2_init() Found child 1440 in scoreboard slot 8,E1,noise
+733,Sun Dec 04 17:20:44 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+734,Sun Dec 04 17:20:44 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+735,Sun Dec 04 17:20:44 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+736,Sun Dec 04 17:20:44 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+737,Sun Dec 04 17:20:44 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+738,Sun Dec 04 17:20:46 2005,mod_jk child workerEnv in error state 7,E3,actionable
+739,Sun Dec 04 17:20:46 2005,mod_jk child workerEnv in error state 6,E3,actionable
+740,Sun Dec 04 17:20:46 2005,mod_jk child workerEnv in error state 6,E3,actionable
+741,Sun Dec 04 17:20:46 2005,mod_jk child workerEnv in error state 7,E3,actionable
+742,Sun Dec 04 17:20:46 2005,mod_jk child workerEnv in error state 6,E3,actionable
+743,Sun Dec 04 17:21:01 2005,jk2_init() Found child 1452 in scoreboard slot 7,E1,noise
+744,Sun Dec 04 17:21:04 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+745,Sun Dec 04 17:21:04 2005,mod_jk child workerEnv in error state 8,E3,actionable
+746,Sun Dec 04 17:26:04 2005,jk2_init() Found child 1461 in scoreboard slot 8,E1,noise
+747,Sun Dec 04 17:26:39 2005,jk2_init() Found child 1462 in scoreboard slot 6,E1,noise
+748,Sun Dec 04 17:27:13 2005,jk2_init() Found child 1466 in scoreboard slot 8,E1,noise
+749,Sun Dec 04 17:28:00 2005,jk2_init() Found child 1470 in scoreboard slot 7,E1,noise
+750,Sun Dec 04 17:28:42 2005,jk2_init() Found child 1477 in scoreboard slot 6,E1,noise
+751,Sun Dec 04 17:28:41 2005,jk2_init() Found child 1476 in scoreboard slot 8,E1,noise
+752,Sun Dec 04 17:31:00 2005,jk2_init() Found child 1501 in scoreboard slot 7,E1,noise
+753,Sun Dec 04 17:31:00 2005,jk2_init() Found child 1502 in scoreboard slot 6,E1,noise
+754,Sun Dec 04 17:31:00 2005,jk2_init() Found child 1498 in scoreboard slot 8,E1,noise
+755,Sun Dec 04 17:31:00 2005,jk2_init() Found child 1499 in scoreboard slot 11,E1,noise
+756,Sun Dec 04 17:31:10 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+757,Sun Dec 04 17:31:10 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+758,Sun Dec 04 17:31:10 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+759,Sun Dec 04 17:31:11 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+760,Sun Dec 04 17:31:12 2005,mod_jk child workerEnv in error state 6,E3,actionable
+761,Sun Dec 04 17:31:12 2005,mod_jk child workerEnv in error state 6,E3,actionable
+762,Sun Dec 04 17:31:12 2005,mod_jk child workerEnv in error state 8,E3,actionable
+763,Sun Dec 04 17:31:12 2005,mod_jk child workerEnv in error state 9,E3,actionable
+764,Sun Dec 04 17:31:43 2005,jk2_init() Found child 1503 in scoreboard slot 9,E1,noise
+765,Sun Dec 04 17:31:43 2005,jk2_init() Found child 1504 in scoreboard slot 8,E1,noise
+766,Sun Dec 04 17:31:45 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+767,Sun Dec 04 17:31:45 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+768,Sun Dec 04 17:31:45 2005,mod_jk child workerEnv in error state 6,E3,actionable
+769,Sun Dec 04 17:31:45 2005,mod_jk child workerEnv in error state 6,E3,actionable
+770,Sun Dec 04 17:34:52 2005,jk2_init() Found child 1507 in scoreboard slot 10,E1,noise
+771,Sun Dec 04 17:34:57 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+772,Sun Dec 04 17:34:57 2005,mod_jk child workerEnv in error state 6,E3,actionable
+773,Sun Dec 04 17:34:57 2005,[client 61.138.216.82] Directory index forbidden by rule: /var/www/html/,E4,noise
+774,Sun Dec 04 17:36:14 2005,jk2_init() Found child 1512 in scoreboard slot 7,E1,noise
+775,Sun Dec 04 17:36:14 2005,jk2_init() Found child 1513 in scoreboard slot 6,E1,noise
+776,Sun Dec 04 17:37:08 2005,jk2_init() Found child 1517 in scoreboard slot 7,E1,noise
+777,Sun Dec 04 17:37:08 2005,jk2_init() Found child 1518 in scoreboard slot 6,E1,noise
+778,Sun Dec 04 17:37:47 2005,jk2_init() Found child 1520 in scoreboard slot 8,E1,noise
+779,Sun Dec 04 17:37:47 2005,jk2_init() Found child 1521 in scoreboard slot 10,E1,noise
+780,Sun Dec 04 17:39:00 2005,jk2_init() Found child 1529 in scoreboard slot 9,E1,noise
+781,Sun Dec 04 17:39:01 2005,jk2_init() Found child 1530 in scoreboard slot 8,E1,noise
+782,Sun Dec 04 17:39:00 2005,jk2_init() Found child 1528 in scoreboard slot 7,E1,noise
+783,Sun Dec 04 17:39:00 2005,jk2_init() Found child 1527 in scoreboard slot 6,E1,noise
+784,Sun Dec 04 17:43:08 2005,jk2_init() Found child 1565 in scoreboard slot 9,E1,noise
+785,Sun Dec 04 17:43:08 2005,jk2_init() Can't find child 1566 in scoreboard,E5,actionable
+786,Sun Dec 04 17:43:08 2005,jk2_init() Found child 1561 in scoreboard slot 6,E1,noise
+787,Sun Dec 04 17:43:08 2005,jk2_init() Found child 1563 in scoreboard slot 8,E1,noise
+788,Sun Dec 04 17:43:08 2005,jk2_init() Found child 1562 in scoreboard slot 7,E1,noise
+789,Sun Dec 04 17:43:08 2005,jk2_init() Can't find child 1567 in scoreboard,E5,actionable
+790,Sun Dec 04 17:43:08 2005,jk2_init() Found child 1568 in scoreboard slot 13,E1,noise
+791,Sun Dec 04 17:43:12 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+792,Sun Dec 04 17:43:12 2005,mod_jk child workerEnv in error state 9,E3,actionable
+793,Sun Dec 04 17:43:12 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+794,Sun Dec 04 17:43:12 2005,mod_jk child workerEnv in error state 8,E3,actionable
+795,Sun Dec 04 17:43:12 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+796,Sun Dec 04 17:43:12 2005,mod_jk child init 1 -2,E6,actionable
+797,Sun Dec 04 17:43:12 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+798,Sun Dec 04 17:43:12 2005,mod_jk child workerEnv in error state 7,E3,actionable
+799,Sun Dec 04 17:43:12 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+800,Sun Dec 04 17:43:12 2005,mod_jk child workerEnv in error state 9,E3,actionable
+801,Sun Dec 04 17:43:12 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+802,Sun Dec 04 17:43:12 2005,mod_jk child init 1 -2,E6,actionable
+803,Sun Dec 04 17:43:12 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+804,Sun Dec 04 17:43:12 2005,mod_jk child workerEnv in error state 6,E3,actionable
+805,Sun Dec 04 17:53:43 2005,[client 218.39.132.175] Directory index forbidden by rule: /var/www/html/,E4,noise
+806,Sun Dec 04 18:24:22 2005,[client 125.30.38.52] Directory index forbidden by rule: /var/www/html/,E4,noise
+807,Sun Dec 04 19:25:51 2005,jk2_init() Found child 1763 in scoreboard slot 6,E1,noise
+808,Sun Dec 04 19:25:53 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+809,Sun Dec 04 19:25:53 2005,mod_jk child workerEnv in error state 6,E3,actionable
+810,Sun Dec 04 19:32:20 2005,jk2_init() Found child 1786 in scoreboard slot 8,E1,noise
+811,Sun Dec 04 19:32:20 2005,jk2_init() Found child 1787 in scoreboard slot 9,E1,noise
+812,Sun Dec 04 19:32:32 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+813,Sun Dec 04 19:32:33 2005,mod_jk child workerEnv in error state 6,E3,actionable
+814,Sun Dec 04 19:32:34 2005,jk2_init() Found child 1788 in scoreboard slot 6,E1,noise
+815,Sun Dec 04 19:32:34 2005,jk2_init() Found child 1790 in scoreboard slot 8,E1,noise
+816,Sun Dec 04 19:32:34 2005,jk2_init() Found child 1789 in scoreboard slot 7,E1,noise
+817,Sun Dec 04 19:32:34 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+818,Sun Dec 04 19:32:34 2005,mod_jk child workerEnv in error state 6,E3,actionable
+819,Sun Dec 04 19:32:34 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+820,Sun Dec 04 19:32:34 2005,mod_jk child workerEnv in error state 7,E3,actionable
+821,Sun Dec 04 19:32:34 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+822,Sun Dec 04 19:32:34 2005,mod_jk child workerEnv in error state 6,E3,actionable
+823,Sun Dec 04 19:35:58 2005,jk2_init() Found child 1797 in scoreboard slot 9,E1,noise
+824,Sun Dec 04 19:35:58 2005,jk2_init() Found child 1798 in scoreboard slot 6,E1,noise
+825,Sun Dec 04 19:35:58 2005,jk2_init() Found child 1799 in scoreboard slot 7,E1,noise
+826,Sun Dec 04 19:35:58 2005,jk2_init() Found child 1800 in scoreboard slot 10,E1,noise
+827,Sun Dec 04 19:35:58 2005,jk2_init() Found child 1801 in scoreboard slot 12,E1,noise
+828,Sun Dec 04 19:36:05 2005,[client 61.37.222.240] Directory index forbidden by rule: /var/www/html/,E4,noise
+829,Sun Dec 04 19:36:07 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+830,Sun Dec 04 19:36:07 2005,mod_jk child workerEnv in error state 6,E3,actionable
+831,Sun Dec 04 19:36:07 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+832,Sun Dec 04 19:36:07 2005,mod_jk child workerEnv in error state 6,E3,actionable
+833,Sun Dec 04 19:36:07 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+834,Sun Dec 04 19:36:07 2005,mod_jk child workerEnv in error state 6,E3,actionable
+835,Sun Dec 04 19:36:07 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+836,Sun Dec 04 19:36:07 2005,mod_jk child workerEnv in error state 6,E3,actionable
+837,Sun Dec 04 19:36:07 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+838,Sun Dec 04 19:36:07 2005,mod_jk child workerEnv in error state 6,E3,actionable
+839,Sun Dec 04 19:41:20 2005,jk2_init() Found child 1816 in scoreboard slot 9,E1,noise
+840,Sun Dec 04 19:41:20 2005,jk2_init() Found child 1814 in scoreboard slot 7,E1,noise
+841,Sun Dec 04 19:41:20 2005,jk2_init() Found child 1813 in scoreboard slot 6,E1,noise
+842,Sun Dec 04 19:41:20 2005,jk2_init() Found child 1815 in scoreboard slot 8,E1,noise
+843,Sun Dec 04 19:41:21 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+844,Sun Dec 04 19:41:21 2005,mod_jk child workerEnv in error state 6,E3,actionable
+845,Sun Dec 04 19:41:21 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+846,Sun Dec 04 19:41:21 2005,mod_jk child workerEnv in error state 6,E3,actionable
+847,Sun Dec 04 19:41:21 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+848,Sun Dec 04 19:41:21 2005,mod_jk child workerEnv in error state 6,E3,actionable
+849,Sun Dec 04 19:41:21 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+850,Sun Dec 04 19:41:21 2005,mod_jk child workerEnv in error state 6,E3,actionable
+851,Sun Dec 04 19:46:04 2005,jk2_init() Found child 1821 in scoreboard slot 6,E1,noise
+852,Sun Dec 04 19:46:04 2005,jk2_init() Found child 1822 in scoreboard slot 7,E1,noise
+853,Sun Dec 04 19:46:13 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+854,Sun Dec 04 19:46:13 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+855,Sun Dec 04 19:46:13 2005,mod_jk child workerEnv in error state 6,E3,actionable
+856,Sun Dec 04 19:46:13 2005,mod_jk child workerEnv in error state 6,E3,actionable
+857,Sun Dec 04 19:46:16 2005,jk2_init() Found child 1823 in scoreboard slot 8,E1,noise
+858,Sun Dec 04 19:46:19 2005,jk2_init() Found child 1824 in scoreboard slot 9,E1,noise
+859,Sun Dec 04 19:46:20 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+860,Sun Dec 04 19:46:20 2005,mod_jk child workerEnv in error state 6,E3,actionable
+861,Sun Dec 04 19:46:20 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+862,Sun Dec 04 19:46:20 2005,mod_jk child workerEnv in error state 6,E3,actionable
+863,Sun Dec 04 19:50:39 2005,jk2_init() Found child 1833 in scoreboard slot 7,E1,noise
+864,Sun Dec 04 19:50:39 2005,jk2_init() Found child 1832 in scoreboard slot 6,E1,noise
+865,Sun Dec 04 19:50:51 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+866,Sun Dec 04 19:50:51 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+867,Sun Dec 04 19:50:55 2005,mod_jk child workerEnv in error state 6,E3,actionable
+868,Sun Dec 04 19:50:57 2005,jk2_init() Found child 1834 in scoreboard slot 8,E1,noise
+869,Sun Dec 04 19:50:55 2005,mod_jk child workerEnv in error state 6,E3,actionable
+870,Sun Dec 04 19:51:16 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+871,Sun Dec 04 19:51:18 2005,mod_jk child workerEnv in error state 6,E3,actionable
+872,Sun Dec 04 19:51:43 2005,jk2_init() Found child 1835 in scoreboard slot 9,E1,noise
+873,Sun Dec 04 19:51:52 2005,jk2_init() Found child 1836 in scoreboard slot 6,E1,noise
+874,Sun Dec 04 19:51:52 2005,jk2_init() Found child 1837 in scoreboard slot 7,E1,noise
+875,Sun Dec 04 19:51:54 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+876,Sun Dec 04 19:51:54 2005,mod_jk child workerEnv in error state 6,E3,actionable
+877,Sun Dec 04 19:51:54 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+878,Sun Dec 04 19:51:54 2005,mod_jk child workerEnv in error state 6,E3,actionable
+879,Sun Dec 04 19:51:54 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+880,Sun Dec 04 19:51:54 2005,mod_jk child workerEnv in error state 6,E3,actionable
+881,Sun Dec 04 19:56:51 2005,jk2_init() Found child 1851 in scoreboard slot 6,E1,noise
+882,Sun Dec 04 19:56:51 2005,jk2_init() Found child 1852 in scoreboard slot 9,E1,noise
+883,Sun Dec 04 19:56:51 2005,jk2_init() Found child 1853 in scoreboard slot 7,E1,noise
+884,Sun Dec 04 19:56:51 2005,jk2_init() Found child 1850 in scoreboard slot 8,E1,noise
+885,Sun Dec 04 19:56:53 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+886,Sun Dec 04 19:56:53 2005,mod_jk child workerEnv in error state 6,E3,actionable
+887,Sun Dec 04 19:56:53 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+888,Sun Dec 04 19:56:53 2005,mod_jk child workerEnv in error state 6,E3,actionable
+889,Sun Dec 04 19:56:53 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+890,Sun Dec 04 19:56:53 2005,mod_jk child workerEnv in error state 6,E3,actionable
+891,Sun Dec 04 19:56:53 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+892,Sun Dec 04 19:56:53 2005,mod_jk child workerEnv in error state 6,E3,actionable
+893,Sun Dec 04 20:01:00 2005,jk2_init() Found child 1861 in scoreboard slot 8,E1,noise
+894,Sun Dec 04 20:01:00 2005,jk2_init() Found child 1862 in scoreboard slot 6,E1,noise
+895,Sun Dec 04 20:01:30 2005,jk2_init() Found child 1867 in scoreboard slot 8,E1,noise
+896,Sun Dec 04 20:01:30 2005,jk2_init() Found child 1864 in scoreboard slot 7,E1,noise
+897,Sun Dec 04 20:01:30 2005,jk2_init() Found child 1868 in scoreboard slot 6,E1,noise
+898,Sun Dec 04 20:01:30 2005,jk2_init() Found child 1863 in scoreboard slot 9,E1,noise
+899,Sun Dec 04 20:01:37 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+900,Sun Dec 04 20:01:37 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+901,Sun Dec 04 20:01:37 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+902,Sun Dec 04 20:01:37 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+903,Sun Dec 04 20:01:37 2005,mod_jk child workerEnv in error state 6,E3,actionable
+904,Sun Dec 04 20:01:37 2005,mod_jk child workerEnv in error state 6,E3,actionable
+905,Sun Dec 04 20:01:37 2005,mod_jk child workerEnv in error state 6,E3,actionable
+906,Sun Dec 04 20:01:37 2005,mod_jk child workerEnv in error state 7,E3,actionable
+907,Sun Dec 04 20:05:55 2005,jk2_init() Found child 1887 in scoreboard slot 8,E1,noise
+908,Sun Dec 04 20:05:55 2005,jk2_init() Found child 1885 in scoreboard slot 9,E1,noise
+909,Sun Dec 04 20:05:55 2005,jk2_init() Found child 1888 in scoreboard slot 6,E1,noise
+910,Sun Dec 04 20:05:55 2005,jk2_init() Found child 1886 in scoreboard slot 7,E1,noise
+911,Sun Dec 04 20:05:58 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+912,Sun Dec 04 20:05:59 2005,mod_jk child workerEnv in error state 6,E3,actionable
+913,Sun Dec 04 20:05:59 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+914,Sun Dec 04 20:05:59 2005,mod_jk child workerEnv in error state 6,E3,actionable
+915,Sun Dec 04 20:05:59 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+916,Sun Dec 04 20:05:59 2005,mod_jk child workerEnv in error state 6,E3,actionable
+917,Sun Dec 04 20:05:59 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+918,Sun Dec 04 20:05:59 2005,mod_jk child workerEnv in error state 6,E3,actionable
+919,Sun Dec 04 20:11:09 2005,jk2_init() Found child 1899 in scoreboard slot 7,E1,noise
+920,Sun Dec 04 20:11:09 2005,jk2_init() Found child 1900 in scoreboard slot 8,E1,noise
+921,Sun Dec 04 20:11:09 2005,jk2_init() Found child 1901 in scoreboard slot 6,E1,noise
+922,Sun Dec 04 20:11:09 2005,jk2_init() Found child 1898 in scoreboard slot 9,E1,noise
+923,Sun Dec 04 20:11:14 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+924,Sun Dec 04 20:11:14 2005,mod_jk child workerEnv in error state 6,E3,actionable
+925,Sun Dec 04 20:11:14 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+926,Sun Dec 04 20:11:14 2005,mod_jk child workerEnv in error state 6,E3,actionable
+927,Sun Dec 04 20:11:14 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+928,Sun Dec 04 20:11:14 2005,mod_jk child workerEnv in error state 6,E3,actionable
+929,Sun Dec 04 20:11:14 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+930,Sun Dec 04 20:11:14 2005,mod_jk child workerEnv in error state 6,E3,actionable
+931,Sun Dec 04 20:16:10 2005,jk2_init() Found child 1912 in scoreboard slot 9,E1,noise
+932,Sun Dec 04 20:16:10 2005,jk2_init() Found child 1915 in scoreboard slot 6,E1,noise
+933,Sun Dec 04 20:16:10 2005,jk2_init() Found child 1913 in scoreboard slot 7,E1,noise
+934,Sun Dec 04 20:16:10 2005,jk2_init() Found child 1914 in scoreboard slot 8,E1,noise
+935,Sun Dec 04 20:16:15 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+936,Sun Dec 04 20:16:15 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+937,Sun Dec 04 20:16:15 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+938,Sun Dec 04 20:16:15 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+939,Sun Dec 04 20:16:15 2005,mod_jk child workerEnv in error state 6,E3,actionable
+940,Sun Dec 04 20:16:15 2005,mod_jk child workerEnv in error state 6,E3,actionable
+941,Sun Dec 04 20:16:15 2005,mod_jk child workerEnv in error state 6,E3,actionable
+942,Sun Dec 04 20:16:15 2005,mod_jk child workerEnv in error state 6,E3,actionable
+943,Sun Dec 04 20:20:57 2005,jk2_init() Found child 1931 in scoreboard slot 7,E1,noise
+944,Sun Dec 04 20:21:09 2005,jk2_init() Found child 1932 in scoreboard slot 8,E1,noise
+945,Sun Dec 04 20:21:08 2005,jk2_init() Found child 1933 in scoreboard slot 6,E1,noise
+946,Sun Dec 04 20:21:21 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+947,Sun Dec 04 20:21:31 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+948,Sun Dec 04 20:21:31 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+949,Sun Dec 04 20:21:37 2005,jk2_init() Found child 1934 in scoreboard slot 9,E1,noise
+950,Sun Dec 04 20:21:36 2005,mod_jk child workerEnv in error state 6,E3,actionable
+951,Sun Dec 04 20:22:09 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+952,Sun Dec 04 20:22:12 2005,jk2_init() Found child 1936 in scoreboard slot 8,E1,noise
+953,Sun Dec 04 20:22:12 2005,jk2_init() Found child 1935 in scoreboard slot 7,E1,noise
+954,Sun Dec 04 20:22:49 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+955,Sun Dec 04 20:22:52 2005,mod_jk child workerEnv in error state 7,E3,actionable
+956,Sun Dec 04 20:22:57 2005,jk2_init() Found child 1937 in scoreboard slot 6,E1,noise
+957,Sun Dec 04 20:23:12 2005,jk2_init() Found child 1938 in scoreboard slot 9,E1,noise
+958,Sun Dec 04 20:24:45 2005,jk2_init() Found child 1950 in scoreboard slot 9,E1,noise
+959,Sun Dec 04 20:24:45 2005,jk2_init() Found child 1951 in scoreboard slot 7,E1,noise
+960,Sun Dec 04 20:24:45 2005,jk2_init() Found child 1949 in scoreboard slot 6,E1,noise
+961,Sun Dec 04 20:24:45 2005,jk2_init() Found child 1948 in scoreboard slot 8,E1,noise
+962,Sun Dec 04 20:24:49 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+963,Sun Dec 04 20:24:49 2005,mod_jk child workerEnv in error state 8,E3,actionable
+964,Sun Dec 04 20:24:49 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+965,Sun Dec 04 20:24:49 2005,mod_jk child workerEnv in error state 8,E3,actionable
+966,Sun Dec 04 20:24:49 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+967,Sun Dec 04 20:24:49 2005,mod_jk child workerEnv in error state 6,E3,actionable
+968,Sun Dec 04 20:24:49 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+969,Sun Dec 04 20:24:49 2005,mod_jk child workerEnv in error state 7,E3,actionable
+970,Sun Dec 04 20:26:10 2005,jk2_init() Found child 1957 in scoreboard slot 8,E1,noise
+971,Sun Dec 04 20:26:53 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+972,Sun Dec 04 20:26:54 2005,mod_jk child workerEnv in error state 6,E3,actionable
+973,Sun Dec 04 20:26:58 2005,jk2_init() Found child 1959 in scoreboard slot 9,E1,noise
+974,Sun Dec 04 20:26:58 2005,jk2_init() Found child 1958 in scoreboard slot 6,E1,noise
+975,Sun Dec 04 20:27:43 2005,jk2_init() Found child 1961 in scoreboard slot 8,E1,noise
+976,Sun Dec 04 20:28:00 2005,jk2_init() Found child 1962 in scoreboard slot 6,E1,noise
+977,Sun Dec 04 20:28:00 2005,jk2_init() Found child 1963 in scoreboard slot 9,E1,noise
+978,Sun Dec 04 20:28:26 2005,jk2_init() Found child 1964 in scoreboard slot 7,E1,noise
+979,Sun Dec 04 20:28:39 2005,jk2_init() Found child 1966 in scoreboard slot 6,E1,noise
+980,Sun Dec 04 20:28:39 2005,jk2_init() Found child 1967 in scoreboard slot 9,E1,noise
+981,Sun Dec 04 20:28:39 2005,jk2_init() Found child 1965 in scoreboard slot 8,E1,noise
+982,Sun Dec 04 20:29:34 2005,jk2_init() Found child 1970 in scoreboard slot 6,E1,noise
+983,Sun Dec 04 20:30:59 2005,jk2_init() Found child 1984 in scoreboard slot 10,E1,noise
+984,Sun Dec 04 20:31:35 2005,jk2_init() Found child 1990 in scoreboard slot 9,E1,noise
+985,Sun Dec 04 20:32:37 2005,jk2_init() Found child 1999 in scoreboard slot 6,E1,noise
+986,Sun Dec 04 20:32:37 2005,jk2_init() Found child 2000 in scoreboard slot 7,E1,noise
+987,Sun Dec 04 20:32:37 2005,jk2_init() Found child 1998 in scoreboard slot 9,E1,noise
+988,Sun Dec 04 20:32:50 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+989,Sun Dec 04 20:32:50 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+990,Sun Dec 04 20:32:50 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+991,Sun Dec 04 20:32:55 2005,mod_jk child workerEnv in error state 10,E3,actionable
+992,Sun Dec 04 20:32:55 2005,mod_jk child workerEnv in error state 6,E3,actionable
+993,Sun Dec 04 20:32:55 2005,mod_jk child workerEnv in error state 10,E3,actionable
+994,Sun Dec 04 20:33:35 2005,jk2_init() Found child 2002 in scoreboard slot 8,E1,noise
+995,Sun Dec 04 20:33:35 2005,jk2_init() Found child 2001 in scoreboard slot 9,E1,noise
+996,Sun Dec 04 20:33:47 2005,jk2_init() Found child 2005 in scoreboard slot 7,E1,noise
+997,Sun Dec 04 20:33:47 2005,jk2_init() Found child 2004 in scoreboard slot 6,E1,noise
+998,Sun Dec 04 20:34:13 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+999,Sun Dec 04 20:34:14 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1000,Sun Dec 04 20:34:20 2005,jk2_init() Found child 2007 in scoreboard slot 8,E1,noise
+1001,Sun Dec 04 20:34:20 2005,jk2_init() Found child 2006 in scoreboard slot 9,E1,noise
+1002,Sun Dec 04 20:34:21 2005,jk2_init() Found child 2008 in scoreboard slot 6,E1,noise
+1003,Sun Dec 04 20:34:25 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1004,Sun Dec 04 20:34:25 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1005,Sun Dec 04 20:34:25 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1006,Sun Dec 04 20:34:25 2005,mod_jk child workerEnv in error state 9,E3,actionable
+1007,Sun Dec 04 20:34:25 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1008,Sun Dec 04 20:34:25 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1009,Sun Dec 04 20:37:29 2005,jk2_init() Found child 2028 in scoreboard slot 9,E1,noise
+1010,Sun Dec 04 20:37:29 2005,jk2_init() Found child 2027 in scoreboard slot 7,E1,noise
+1011,Sun Dec 04 20:37:29 2005,jk2_init() Found child 2029 in scoreboard slot 8,E1,noise
+1012,Sun Dec 04 20:37:46 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1013,Sun Dec 04 20:37:46 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1014,Sun Dec 04 20:37:49 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1015,Sun Dec 04 20:37:49 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1016,Sun Dec 04 20:38:10 2005,jk2_init() Found child 2030 in scoreboard slot 6,E1,noise
+1017,Sun Dec 04 20:38:10 2005,jk2_init() Found child 2031 in scoreboard slot 7,E1,noise
+1018,Sun Dec 04 20:38:11 2005,jk2_init() Found child 2032 in scoreboard slot 9,E1,noise
+1019,Sun Dec 04 20:38:14 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1020,Sun Dec 04 20:38:14 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1021,Sun Dec 04 20:38:14 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1022,Sun Dec 04 20:38:14 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1023,Sun Dec 04 20:38:14 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1024,Sun Dec 04 20:38:14 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1025,Sun Dec 04 20:41:12 2005,jk2_init() Found child 2042 in scoreboard slot 8,E1,noise
+1026,Sun Dec 04 20:41:47 2005,jk2_init() Found child 2045 in scoreboard slot 9,E1,noise
+1027,Sun Dec 04 20:42:42 2005,jk2_init() Found child 2051 in scoreboard slot 8,E1,noise
+1028,Sun Dec 04 20:44:29 2005,jk2_init() Found child 2059 in scoreboard slot 7,E1,noise
+1029,Sun Dec 04 20:44:29 2005,jk2_init() Found child 2060 in scoreboard slot 9,E1,noise
+1030,Sun Dec 04 20:44:30 2005,jk2_init() Found child 2061 in scoreboard slot 8,E1,noise
+1031,Sun Dec 04 20:47:16 2005,jk2_init() Found child 2081 in scoreboard slot 6,E1,noise
+1032,Sun Dec 04 20:47:16 2005,jk2_init() Can't find child 2082 in scoreboard,E5,actionable
+1033,Sun Dec 04 20:47:16 2005,jk2_init() Found child 2083 in scoreboard slot 8,E1,noise
+1034,Sun Dec 04 20:47:16 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1035,Sun Dec 04 20:47:16 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1036,Sun Dec 04 20:47:16 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1037,Sun Dec 04 20:47:16 2005,mod_jk child init 1 -2,E6,actionable
+1038,Sun Dec 04 20:47:16 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1039,Sun Dec 04 20:47:16 2005,mod_jk child workerEnv in error state 9,E3,actionable
+1040,Sun Dec 04 20:47:17 2005,jk2_init() Can't find child 2085 in scoreboard,E5,actionable
+1041,Sun Dec 04 20:47:17 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1042,Sun Dec 04 20:47:17 2005,mod_jk child init 1 -2,E6,actionable
+1043,Sun Dec 04 20:47:17 2005,jk2_init() Can't find child 2086 in scoreboard,E5,actionable
+1044,Sun Dec 04 20:47:17 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1045,Sun Dec 04 20:47:17 2005,mod_jk child init 1 -2,E6,actionable
+1046,Sun Dec 04 20:47:17 2005,jk2_init() Can't find child 2087 in scoreboard,E5,actionable
+1047,Sun Dec 04 20:47:17 2005,jk2_init() Found child 2084 in scoreboard slot 9,E1,noise
+1048,Sun Dec 04 20:47:17 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1049,Sun Dec 04 20:47:17 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1050,Sun Dec 04 20:47:17 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1051,Sun Dec 04 20:47:17 2005,mod_jk child init 1 -2,E6,actionable
+1052,Mon Dec 05 01:04:31 2005,[client 218.62.18.218] Directory index forbidden by rule: /var/www/html/,E4,noise
+1053,Mon Dec 05 01:30:32 2005,[client 211.62.201.48] Directory index forbidden by rule: /var/www/html/,E4,noise
+1054,Mon Dec 05 03:21:00 2005,jk2_init() Found child 2760 in scoreboard slot 6,E1,noise
+1055,Mon Dec 05 03:21:02 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1056,Mon Dec 05 03:21:02 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1057,Mon Dec 05 03:23:21 2005,jk2_init() Found child 2763 in scoreboard slot 7,E1,noise
+1058,Mon Dec 05 03:23:24 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1059,Mon Dec 05 03:23:24 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1060,Mon Dec 05 03:23:24 2005,[client 218.207.61.7] Directory index forbidden by rule: /var/www/html/,E4,noise
+1061,Mon Dec 05 03:25:44 2005,jk2_init() Found child 2773 in scoreboard slot 6,E1,noise
+1062,Mon Dec 05 03:25:46 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1063,Mon Dec 05 03:25:46 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1064,Mon Dec 05 03:36:51 2005,jk2_init() Found child 2813 in scoreboard slot 7,E1,noise
+1065,Mon Dec 05 03:36:51 2005,jk2_init() Found child 2815 in scoreboard slot 8,E1,noise
+1066,Mon Dec 05 03:36:51 2005,jk2_init() Found child 2812 in scoreboard slot 6,E1,noise
+1067,Mon Dec 05 03:36:51 2005,jk2_init() Found child 2811 in scoreboard slot 9,E1,noise
+1068,Mon Dec 05 03:36:57 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1069,Mon Dec 05 03:36:57 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1070,Mon Dec 05 03:36:57 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1071,Mon Dec 05 03:36:57 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1072,Mon Dec 05 03:36:57 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1073,Mon Dec 05 03:36:57 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1074,Mon Dec 05 03:36:57 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1075,Mon Dec 05 03:36:57 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1076,Mon Dec 05 03:40:46 2005,jk2_init() Found child 2823 in scoreboard slot 9,E1,noise
+1077,Mon Dec 05 03:40:55 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1078,Mon Dec 05 03:40:55 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1079,Mon Dec 05 03:44:50 2005,jk2_init() Found child 2824 in scoreboard slot 10,E1,noise
+1080,Mon Dec 05 03:44:50 2005,[client 168.20.198.21] Directory index forbidden by rule: /var/www/html/,E4,noise
+1081,Mon Dec 05 03:44:50 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1082,Mon Dec 05 03:44:50 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1083,Mon Dec 05 03:46:38 2005,jk2_init() Found child 2838 in scoreboard slot 10,E1,noise
+1084,Mon Dec 05 03:46:38 2005,jk2_init() Found child 2836 in scoreboard slot 9,E1,noise
+1085,Mon Dec 05 03:46:38 2005,jk2_init() Found child 2837 in scoreboard slot 6,E1,noise
+1086,Mon Dec 05 03:46:50 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1087,Mon Dec 05 03:47:02 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1088,Mon Dec 05 03:47:19 2005,jk2_init() Found child 2840 in scoreboard slot 8,E1,noise
+1089,Mon Dec 05 03:47:19 2005,jk2_init() Found child 2841 in scoreboard slot 6,E1,noise
+1090,Mon Dec 05 03:47:19 2005,jk2_init() Found child 2842 in scoreboard slot 9,E1,noise
+1091,Mon Dec 05 03:47:53 2005,jk2_init() Found child 2846 in scoreboard slot 9,E1,noise
+1092,Mon Dec 05 03:47:53 2005,jk2_init() Found child 2843 in scoreboard slot 7,E1,noise
+1093,Mon Dec 05 03:47:53 2005,jk2_init() Found child 2844 in scoreboard slot 8,E1,noise
+1094,Mon Dec 05 03:47:53 2005,jk2_init() Found child 2845 in scoreboard slot 6,E1,noise
+1095,Mon Dec 05 03:47:54 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1096,Mon Dec 05 03:47:54 2005,mod_jk child workerEnv in error state 8,E3,actionable
+1097,Mon Dec 05 03:47:54 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1098,Mon Dec 05 03:47:54 2005,mod_jk child workerEnv in error state 8,E3,actionable
+1099,Mon Dec 05 03:47:54 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1100,Mon Dec 05 03:47:54 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1101,Mon Dec 05 03:47:54 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1102,Mon Dec 05 03:47:54 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1103,Mon Dec 05 03:50:49 2005,jk2_init() Found child 2857 in scoreboard slot 9,E1,noise
+1104,Mon Dec 05 03:50:50 2005,jk2_init() Found child 2854 in scoreboard slot 7,E1,noise
+1105,Mon Dec 05 03:50:49 2005,jk2_init() Found child 2855 in scoreboard slot 8,E1,noise
+1106,Mon Dec 05 03:50:49 2005,jk2_init() Found child 2856 in scoreboard slot 6,E1,noise
+1107,Mon Dec 05 03:50:59 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1108,Mon Dec 05 03:50:59 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1109,Mon Dec 05 03:50:59 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1110,Mon Dec 05 03:50:59 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1111,Mon Dec 05 03:50:59 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1112,Mon Dec 05 03:50:59 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1113,Mon Dec 05 03:50:59 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1114,Mon Dec 05 03:50:59 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1115,Mon Dec 05 03:56:12 2005,jk2_init() Found child 2866 in scoreboard slot 7,E1,noise
+1116,Mon Dec 05 03:56:12 2005,jk2_init() Found child 2867 in scoreboard slot 8,E1,noise
+1117,Mon Dec 05 03:56:12 2005,jk2_init() Found child 2865 in scoreboard slot 9,E1,noise
+1118,Mon Dec 05 03:56:12 2005,jk2_init() Found child 2864 in scoreboard slot 6,E1,noise
+1119,Mon Dec 05 03:56:15 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1120,Mon Dec 05 03:56:15 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1121,Mon Dec 05 03:56:15 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1122,Mon Dec 05 03:56:15 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1123,Mon Dec 05 03:56:15 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1124,Mon Dec 05 03:56:15 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1125,Mon Dec 05 03:56:15 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1126,Mon Dec 05 03:56:15 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1127,Mon Dec 05 04:00:55 2005,jk2_init() Found child 2877 in scoreboard slot 10,E1,noise
+1128,Mon Dec 05 04:01:18 2005,jk2_init() Found child 2883 in scoreboard slot 9,E1,noise
+1129,Mon Dec 05 04:01:18 2005,jk2_init() Found child 2878 in scoreboard slot 7,E1,noise
+1130,Mon Dec 05 04:01:18 2005,jk2_init() Found child 2880 in scoreboard slot 8,E1,noise
+1131,Mon Dec 05 04:01:18 2005,jk2_init() Found child 2879 in scoreboard slot 6,E1,noise
+1132,Mon Dec 05 04:01:23 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1133,Mon Dec 05 04:01:23 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1134,Mon Dec 05 04:01:23 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1135,Mon Dec 05 04:01:23 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1136,Mon Dec 05 04:01:23 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1137,Mon Dec 05 04:01:23 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1138,Mon Dec 05 04:01:23 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1139,Mon Dec 05 04:01:23 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1140,Mon Dec 05 04:06:19 2005,jk2_init() Found child 3667 in scoreboard slot 7,E1,noise
+1141,Mon Dec 05 04:06:19 2005,jk2_init() Found child 3669 in scoreboard slot 6,E1,noise
+1142,Mon Dec 05 04:06:27 2005,jk2_init() Found child 3670 in scoreboard slot 8,E1,noise
+1143,Mon Dec 05 04:06:43 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1144,Mon Dec 05 04:06:43 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1145,Mon Dec 05 04:06:45 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1146,Mon Dec 05 04:06:45 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1147,Mon Dec 05 04:07:23 2005,jk2_init() Found child 3672 in scoreboard slot 7,E1,noise
+1148,Mon Dec 05 04:07:37 2005,jk2_init() Found child 3673 in scoreboard slot 6,E1,noise
+1149,Mon Dec 05 04:07:48 2005,jk2_init() Found child 3675 in scoreboard slot 9,E1,noise
+1150,Mon Dec 05 04:07:48 2005,jk2_init() Found child 3674 in scoreboard slot 8,E1,noise
+1151,Mon Dec 05 04:08:37 2005,jk2_init() Found child 3678 in scoreboard slot 8,E1,noise
+1152,Mon Dec 05 04:08:37 2005,jk2_init() Found child 3681 in scoreboard slot 6,E1,noise
+1153,Mon Dec 05 04:08:37 2005,jk2_init() Found child 3679 in scoreboard slot 9,E1,noise
+1154,Mon Dec 05 04:08:37 2005,jk2_init() Found child 3680 in scoreboard slot 7,E1,noise
+1155,Mon Dec 05 04:08:57 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1156,Mon Dec 05 04:09:32 2005,jk2_init() Found child 3685 in scoreboard slot 6,E1,noise
+1157,Mon Dec 05 04:10:47 2005,jk2_init() Found child 3698 in scoreboard slot 9,E1,noise
+1158,Mon Dec 05 04:10:47 2005,jk2_init() Found child 3690 in scoreboard slot 6,E1,noise
+1159,Mon Dec 05 04:10:47 2005,jk2_init() Found child 3691 in scoreboard slot 8,E1,noise
+1160,Mon Dec 05 04:13:54 2005,jk2_init() Found child 3744 in scoreboard slot 6,E1,noise
+1161,Mon Dec 05 04:13:54 2005,jk2_init() Found child 3747 in scoreboard slot 8,E1,noise
+1162,Mon Dec 05 04:13:54 2005,jk2_init() Found child 3754 in scoreboard slot 12,E1,noise
+1163,Mon Dec 05 04:13:54 2005,jk2_init() Found child 3755 in scoreboard slot 13,E1,noise
+1164,Mon Dec 05 04:13:54 2005,jk2_init() Found child 3753 in scoreboard slot 10,E1,noise
+1165,Mon Dec 05 04:13:54 2005,jk2_init() Found child 3752 in scoreboard slot 9,E1,noise
+1166,Mon Dec 05 04:13:54 2005,jk2_init() Found child 3746 in scoreboard slot 7,E1,noise
+1167,Mon Dec 05 04:14:00 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1168,Mon Dec 05 04:14:00 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1169,Mon Dec 05 04:14:00 2005,mod_jk child workerEnv in error state 9,E3,actionable
+1170,Mon Dec 05 04:14:00 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1171,Mon Dec 05 04:14:00 2005,mod_jk child workerEnv in error state 8,E3,actionable
+1172,Mon Dec 05 04:14:00 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1173,Mon Dec 05 04:14:00 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1174,Mon Dec 05 04:14:00 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1175,Mon Dec 05 04:14:00 2005,mod_jk child workerEnv in error state 9,E3,actionable
+1176,Mon Dec 05 04:14:00 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1177,Mon Dec 05 04:14:00 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1178,Mon Dec 05 04:14:00 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1179,Mon Dec 05 04:14:00 2005,mod_jk child workerEnv in error state 10,E3,actionable
+1180,Mon Dec 05 04:14:00 2005,mod_jk child workerEnv in error state 9,E3,actionable
+1181,Mon Dec 05 05:06:42 2005,jk2_init() Found child 4596 in scoreboard slot 8,E1,noise
+1182,Mon Dec 05 05:06:42 2005,jk2_init() Found child 4595 in scoreboard slot 7,E1,noise
+1183,Mon Dec 05 05:06:42 2005,jk2_init() Found child 4594 in scoreboard slot 6,E1,noise
+1184,Mon Dec 05 05:06:47 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1185,Mon Dec 05 05:06:47 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1186,Mon Dec 05 05:06:47 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1187,Mon Dec 05 05:06:47 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1188,Mon Dec 05 05:06:47 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1189,Mon Dec 05 05:06:47 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1190,Mon Dec 05 05:11:04 2005,jk2_init() Found child 4609 in scoreboard slot 7,E1,noise
+1191,Mon Dec 05 05:11:04 2005,jk2_init() Found child 4608 in scoreboard slot 6,E1,noise
+1192,Mon Dec 05 05:11:34 2005,jk2_init() Found child 4611 in scoreboard slot 9,E1,noise
+1193,Mon Dec 05 05:11:54 2005,jk2_init() Found child 4613 in scoreboard slot 7,E1,noise
+1194,Mon Dec 05 05:11:54 2005,jk2_init() Found child 4612 in scoreboard slot 6,E1,noise
+1195,Mon Dec 05 05:12:32 2005,jk2_init() Found child 4615 in scoreboard slot 9,E1,noise
+1196,Mon Dec 05 05:12:56 2005,jk2_init() Found child 4616 in scoreboard slot 6,E1,noise
+1197,Mon Dec 05 05:12:56 2005,jk2_init() Found child 4617 in scoreboard slot 7,E1,noise
+1198,Mon Dec 05 05:12:56 2005,jk2_init() Found child 4618 in scoreboard slot 8,E1,noise
+1199,Mon Dec 05 05:15:29 2005,jk2_init() Found child 4634 in scoreboard slot 6,E1,noise
+1200,Mon Dec 05 05:15:29 2005,jk2_init() Found child 4637 in scoreboard slot 7,E1,noise
+1201,Mon Dec 05 05:15:29 2005,jk2_init() Found child 4631 in scoreboard slot 9,E1,noise
+1202,Mon Dec 05 05:15:29 2005,jk2_init() Found child 4630 in scoreboard slot 8,E1,noise
+1203,Mon Dec 05 05:15:33 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1204,Mon Dec 05 05:15:33 2005,mod_jk child workerEnv in error state 9,E3,actionable
+1205,Mon Dec 05 05:15:33 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1206,Mon Dec 05 05:15:33 2005,mod_jk child workerEnv in error state 9,E3,actionable
+1207,Mon Dec 05 05:15:33 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1208,Mon Dec 05 05:15:33 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1209,Mon Dec 05 05:15:33 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1210,Mon Dec 05 05:15:33 2005,mod_jk child workerEnv in error state 8,E3,actionable
+1211,Mon Dec 05 06:35:27 2005,jk2_init() Found child 4820 in scoreboard slot 8,E1,noise
+1212,Mon Dec 05 06:35:27 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1213,Mon Dec 05 06:35:27 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1214,Mon Dec 05 06:36:58 2005,jk2_init() Found child 4821 in scoreboard slot 10,E1,noise
+1215,Mon Dec 05 06:36:58 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1216,Mon Dec 05 06:36:58 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1217,Mon Dec 05 06:36:59 2005,[client 221.232.178.24] Directory index forbidden by rule: /var/www/html/,E4,noise
+1218,Mon Dec 05 07:16:00 2005,jk2_init() Found child 4893 in scoreboard slot 7,E1,noise
+1219,Mon Dec 05 07:16:00 2005,jk2_init() Found child 4892 in scoreboard slot 6,E1,noise
+1220,Mon Dec 05 07:16:03 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1221,Mon Dec 05 07:16:03 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1222,Mon Dec 05 07:16:03 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1223,Mon Dec 05 07:16:03 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1224,Mon Dec 05 07:21:03 2005,jk2_init() Found child 4907 in scoreboard slot 6,E1,noise
+1225,Mon Dec 05 07:21:02 2005,jk2_init() Found child 4906 in scoreboard slot 9,E1,noise
+1226,Mon Dec 05 07:21:02 2005,jk2_init() Found child 4905 in scoreboard slot 8,E1,noise
+1227,Mon Dec 05 07:21:09 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1228,Mon Dec 05 07:21:09 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1229,Mon Dec 05 07:21:09 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1230,Mon Dec 05 07:21:09 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1231,Mon Dec 05 07:21:09 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1232,Mon Dec 05 07:21:09 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1233,Mon Dec 05 07:25:55 2005,jk2_init() Found child 4916 in scoreboard slot 8,E1,noise
+1234,Mon Dec 05 07:25:55 2005,jk2_init() Found child 4917 in scoreboard slot 9,E1,noise
+1235,Mon Dec 05 07:25:55 2005,jk2_init() Found child 4915 in scoreboard slot 7,E1,noise
+1236,Mon Dec 05 07:25:59 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1237,Mon Dec 05 07:25:59 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1238,Mon Dec 05 07:25:59 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1239,Mon Dec 05 07:26:00 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1240,Mon Dec 05 07:26:00 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1241,Mon Dec 05 07:26:00 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1242,Mon Dec 05 07:31:22 2005,jk2_init() Found child 4932 in scoreboard slot 6,E1,noise
+1243,Mon Dec 05 07:32:03 2005,jk2_init() Found child 4938 in scoreboard slot 8,E1,noise
+1244,Mon Dec 05 07:32:03 2005,jk2_init() Found child 4935 in scoreboard slot 9,E1,noise
+1245,Mon Dec 05 07:32:03 2005,jk2_init() Found child 4936 in scoreboard slot 6,E1,noise
+1246,Mon Dec 05 07:32:03 2005,jk2_init() Found child 4937 in scoreboard slot 7,E1,noise
+1247,Mon Dec 05 07:32:06 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1248,Mon Dec 05 07:32:06 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1249,Mon Dec 05 07:32:06 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1250,Mon Dec 05 07:32:06 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1251,Mon Dec 05 07:32:06 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1252,Mon Dec 05 07:32:06 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1253,Mon Dec 05 07:32:06 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1254,Mon Dec 05 07:32:06 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1255,Mon Dec 05 07:36:19 2005,jk2_init() Found child 4950 in scoreboard slot 7,E1,noise
+1256,Mon Dec 05 07:37:47 2005,jk2_init() Found child 4961 in scoreboard slot 6,E1,noise
+1257,Mon Dec 05 07:37:48 2005,jk2_init() Found child 4962 in scoreboard slot 7,E1,noise
+1258,Mon Dec 05 07:37:48 2005,jk2_init() Found child 4960 in scoreboard slot 9,E1,noise
+1259,Mon Dec 05 07:37:48 2005,jk2_init() Found child 4959 in scoreboard slot 8,E1,noise
+1260,Mon Dec 05 07:37:58 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1261,Mon Dec 05 07:37:58 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1262,Mon Dec 05 07:37:58 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1263,Mon Dec 05 07:37:58 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1264,Mon Dec 05 07:37:58 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1265,Mon Dec 05 07:37:58 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1266,Mon Dec 05 07:37:58 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1267,Mon Dec 05 07:37:58 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1268,Mon Dec 05 07:41:07 2005,jk2_init() Found child 4974 in scoreboard slot 9,E1,noise
+1269,Mon Dec 05 07:41:35 2005,jk2_init() Found child 4975 in scoreboard slot 6,E1,noise
+1270,Mon Dec 05 07:41:50 2005,jk2_init() Found child 4977 in scoreboard slot 8,E1,noise
+1271,Mon Dec 05 07:41:50 2005,jk2_init() Found child 4976 in scoreboard slot 7,E1,noise
+1272,Mon Dec 05 07:43:07 2005,jk2_init() Found child 4984 in scoreboard slot 7,E1,noise
+1273,Mon Dec 05 07:43:08 2005,jk2_init() Found child 4985 in scoreboard slot 10,E1,noise
+1274,Mon Dec 05 07:43:07 2005,jk2_init() Found child 4983 in scoreboard slot 6,E1,noise
+1275,Mon Dec 05 07:43:15 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1276,Mon Dec 05 07:43:16 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1277,Mon Dec 05 07:43:15 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1278,Mon Dec 05 07:43:16 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1279,Mon Dec 05 07:43:15 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1280,Mon Dec 05 07:43:16 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1281,Mon Dec 05 07:43:19 2005,jk2_init() Found child 4986 in scoreboard slot 8,E1,noise
+1282,Mon Dec 05 07:43:19 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1283,Mon Dec 05 07:43:19 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1284,Mon Dec 05 07:46:01 2005,jk2_init() Found child 4991 in scoreboard slot 6,E1,noise
+1285,Mon Dec 05 07:46:01 2005,jk2_init() Found child 4992 in scoreboard slot 7,E1,noise
+1286,Mon Dec 05 07:46:46 2005,jk2_init() Found child 4996 in scoreboard slot 7,E1,noise
+1287,Mon Dec 05 07:46:46 2005,jk2_init() Found child 4995 in scoreboard slot 6,E1,noise
+1288,Mon Dec 05 07:47:13 2005,jk2_init() Found child 4998 in scoreboard slot 8,E1,noise
+1289,Mon Dec 05 07:47:13 2005,jk2_init() Found child 4999 in scoreboard slot 6,E1,noise
+1290,Mon Dec 05 07:47:21 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1291,Mon Dec 05 07:47:21 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1292,Mon Dec 05 07:47:21 2005,jk2_init() Found child 5000 in scoreboard slot 7,E1,noise
+1293,Mon Dec 05 07:47:22 2005,mod_jk child workerEnv in error state 8,E3,actionable
+1294,Mon Dec 05 07:47:21 2005,jk2_init() Found child 5001 in scoreboard slot 9,E1,noise
+1295,Mon Dec 05 07:47:23 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1296,Mon Dec 05 07:47:36 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1297,Mon Dec 05 07:47:36 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1298,Mon Dec 05 07:47:40 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1299,Mon Dec 05 07:47:40 2005,mod_jk child workerEnv in error state 8,E3,actionable
+1300,Mon Dec 05 07:48:04 2005,jk2_init() Found child 5002 in scoreboard slot 8,E1,noise
+1301,Mon Dec 05 07:48:04 2005,jk2_init() Found child 5003 in scoreboard slot 6,E1,noise
+1302,Mon Dec 05 07:48:46 2005,jk2_init() Found child 5005 in scoreboard slot 9,E1,noise
+1303,Mon Dec 05 07:48:46 2005,jk2_init() Found child 5006 in scoreboard slot 8,E1,noise
+1304,Mon Dec 05 07:48:55 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1305,Mon Dec 05 07:48:55 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1306,Mon Dec 05 07:48:55 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1307,Mon Dec 05 07:48:55 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1308,Mon Dec 05 07:48:56 2005,jk2_init() Found child 5007 in scoreboard slot 6,E1,noise
+1309,Mon Dec 05 07:48:56 2005,jk2_init() Found child 5008 in scoreboard slot 7,E1,noise
+1310,Mon Dec 05 07:48:56 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1311,Mon Dec 05 07:48:56 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1312,Mon Dec 05 07:48:56 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1313,Mon Dec 05 07:48:56 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1314,Mon Dec 05 07:50:54 2005,jk2_init() Found child 5017 in scoreboard slot 8,E1,noise
+1315,Mon Dec 05 07:50:54 2005,jk2_init() Found child 5016 in scoreboard slot 9,E1,noise
+1316,Mon Dec 05 07:51:22 2005,jk2_init() Found child 5018 in scoreboard slot 6,E1,noise
+1317,Mon Dec 05 07:51:20 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1318,Mon Dec 05 07:51:23 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1319,Mon Dec 05 07:51:39 2005,jk2_init() Found child 5020 in scoreboard slot 9,E1,noise
+1320,Mon Dec 05 07:51:39 2005,jk2_init() Found child 5019 in scoreboard slot 7,E1,noise
+1321,Mon Dec 05 07:51:56 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1322,Mon Dec 05 07:51:56 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1323,Mon Dec 05 07:52:02 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1324,Mon Dec 05 07:52:02 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1325,Mon Dec 05 07:52:29 2005,jk2_init() Found child 5021 in scoreboard slot 8,E1,noise
+1326,Mon Dec 05 07:52:29 2005,jk2_init() Found child 5022 in scoreboard slot 6,E1,noise
+1327,Mon Dec 05 07:52:56 2005,jk2_init() Found child 5024 in scoreboard slot 9,E1,noise
+1328,Mon Dec 05 07:52:56 2005,jk2_init() Found child 5023 in scoreboard slot 7,E1,noise
+1329,Mon Dec 05 07:52:55 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1330,Mon Dec 05 07:53:01 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1331,Mon Dec 05 07:53:24 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1332,Mon Dec 05 07:54:01 2005,jk2_init() Found child 5029 in scoreboard slot 8,E1,noise
+1333,Mon Dec 05 07:54:02 2005,jk2_init() Found child 5030 in scoreboard slot 6,E1,noise
+1334,Mon Dec 05 07:54:48 2005,jk2_init() Found child 5033 in scoreboard slot 8,E1,noise
+1335,Mon Dec 05 07:54:48 2005,jk2_init() Found child 5032 in scoreboard slot 9,E1,noise
+1336,Mon Dec 05 07:55:00 2005,jk2_init() Found child 5035 in scoreboard slot 7,E1,noise
+1337,Mon Dec 05 07:55:00 2005,jk2_init() Found child 5034 in scoreboard slot 6,E1,noise
+1338,Mon Dec 05 07:55:07 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1339,Mon Dec 05 07:55:08 2005,mod_jk child workerEnv in error state 8,E3,actionable
+1340,Mon Dec 05 07:55:07 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1341,Mon Dec 05 07:55:08 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1342,Mon Dec 05 07:55:07 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1343,Mon Dec 05 07:55:08 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1344,Mon Dec 05 07:55:13 2005,jk2_init() Found child 5036 in scoreboard slot 9,E1,noise
+1345,Mon Dec 05 07:57:01 2005,jk2_init() Found child 5050 in scoreboard slot 8,E1,noise
+1346,Mon Dec 05 07:57:01 2005,jk2_init() Found child 5049 in scoreboard slot 7,E1,noise
+1347,Mon Dec 05 07:57:01 2005,jk2_init() Found child 5048 in scoreboard slot 6,E1,noise
+1348,Mon Dec 05 07:57:02 2005,jk2_init() Found child 5051 in scoreboard slot 9,E1,noise
+1349,Mon Dec 05 07:57:02 2005,jk2_init() Can't find child 5053 in scoreboard,E5,actionable
+1350,Mon Dec 05 07:57:02 2005,jk2_init() Can't find child 5054 in scoreboard,E5,actionable
+1351,Mon Dec 05 07:57:02 2005,jk2_init() Found child 5052 in scoreboard slot 10,E1,noise
+1352,Mon Dec 05 07:57:02 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1353,Mon Dec 05 07:57:02 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1354,Mon Dec 05 07:57:02 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1355,Mon Dec 05 07:57:02 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1356,Mon Dec 05 07:57:02 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1357,Mon Dec 05 07:57:02 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1358,Mon Dec 05 07:57:02 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1359,Mon Dec 05 07:57:02 2005,mod_jk child workerEnv in error state 8,E3,actionable
+1360,Mon Dec 05 07:57:02 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1361,Mon Dec 05 07:57:02 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1362,Mon Dec 05 07:57:02 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1363,Mon Dec 05 07:57:02 2005,mod_jk child init 1 -2,E6,actionable
+1364,Mon Dec 05 07:57:02 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1365,Mon Dec 05 07:57:02 2005,mod_jk child init 1 -2,E6,actionable
+1366,Mon Dec 05 09:09:48 2005,[client 207.12.15.211] Directory index forbidden by rule: /var/www/html/,E4,noise
+1367,Mon Dec 05 09:36:13 2005,jk2_init() Found child 5271 in scoreboard slot 7,E1,noise
+1368,Mon Dec 05 09:36:13 2005,jk2_init() Found child 5270 in scoreboard slot 6,E1,noise
+1369,Mon Dec 05 09:36:14 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1370,Mon Dec 05 09:36:14 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1371,Mon Dec 05 09:36:14 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1372,Mon Dec 05 09:36:14 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1373,Mon Dec 05 09:55:21 2005,jk2_init() Found child 5295 in scoreboard slot 8,E1,noise
+1374,Mon Dec 05 09:55:21 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1375,Mon Dec 05 09:55:21 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1376,Mon Dec 05 10:10:32 2005,jk2_init() Found child 5330 in scoreboard slot 9,E1,noise
+1377,Mon Dec 05 10:10:33 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1378,Mon Dec 05 10:10:33 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1379,Mon Dec 05 10:16:20 2005,jk2_init() Found child 5344 in scoreboard slot 7,E1,noise
+1380,Mon Dec 05 10:16:52 2005,jk2_init() Found child 5347 in scoreboard slot 6,E1,noise
+1381,Mon Dec 05 10:16:53 2005,jk2_init() Found child 5348 in scoreboard slot 7,E1,noise
+1382,Mon Dec 05 10:17:45 2005,jk2_init() Found child 5350 in scoreboard slot 9,E1,noise
+1383,Mon Dec 05 10:17:45 2005,jk2_init() Found child 5349 in scoreboard slot 8,E1,noise
+1384,Mon Dec 05 10:17:49 2005,jk2_init() Found child 5352 in scoreboard slot 7,E1,noise
+1385,Mon Dec 05 10:17:50 2005,jk2_init() Found child 5351 in scoreboard slot 6,E1,noise
+1386,Mon Dec 05 10:17:51 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1387,Mon Dec 05 10:17:51 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1388,Mon Dec 05 10:17:51 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1389,Mon Dec 05 10:17:51 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1390,Mon Dec 05 10:17:51 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1391,Mon Dec 05 10:17:51 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1392,Mon Dec 05 10:17:51 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1393,Mon Dec 05 10:17:51 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1394,Mon Dec 05 10:21:05 2005,jk2_init() Found child 5366 in scoreboard slot 9,E1,noise
+1395,Mon Dec 05 10:21:05 2005,jk2_init() Found child 5365 in scoreboard slot 8,E1,noise
+1396,Mon Dec 05 10:21:05 2005,jk2_init() Found child 5367 in scoreboard slot 6,E1,noise
+1397,Mon Dec 05 10:21:07 2005,jk2_init() Found child 5368 in scoreboard slot 7,E1,noise
+1398,Mon Dec 05 10:21:13 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1399,Mon Dec 05 10:21:13 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1400,Mon Dec 05 10:21:13 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1401,Mon Dec 05 10:21:13 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1402,Mon Dec 05 10:21:13 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1403,Mon Dec 05 10:21:13 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1404,Mon Dec 05 10:21:13 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1405,Mon Dec 05 10:21:13 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1406,Mon Dec 05 10:26:26 2005,jk2_init() Found child 5384 in scoreboard slot 7,E1,noise
+1407,Mon Dec 05 10:26:26 2005,jk2_init() Found child 5385 in scoreboard slot 8,E1,noise
+1408,Mon Dec 05 10:26:25 2005,jk2_init() Found child 5386 in scoreboard slot 9,E1,noise
+1409,Mon Dec 05 10:26:25 2005,jk2_init() Found child 5387 in scoreboard slot 6,E1,noise
+1410,Mon Dec 05 10:26:31 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1411,Mon Dec 05 10:26:31 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1412,Mon Dec 05 10:26:31 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1413,Mon Dec 05 10:26:31 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1414,Mon Dec 05 10:26:31 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1415,Mon Dec 05 10:26:31 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1416,Mon Dec 05 10:26:31 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1417,Mon Dec 05 10:26:31 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1418,Mon Dec 05 10:26:36 2005,jk2_init() Found child 5388 in scoreboard slot 10,E1,noise
+1419,Mon Dec 05 10:26:36 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1420,Mon Dec 05 10:26:36 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1421,Mon Dec 05 10:26:39 2005,[client 141.153.150.164] Directory index forbidden by rule: /var/www/html/,E4,noise
+1422,Mon Dec 05 10:28:44 2005,[client 198.232.168.9] Directory index forbidden by rule: /var/www/html/,E4,noise
+1423,Mon Dec 05 10:31:40 2005,jk2_init() Found child 5404 in scoreboard slot 8,E1,noise
+1424,Mon Dec 05 10:31:40 2005,jk2_init() Found child 5405 in scoreboard slot 9,E1,noise
+1425,Mon Dec 05 10:33:41 2005,jk2_init() Found child 5418 in scoreboard slot 6,E1,noise
+1426,Mon Dec 05 10:33:41 2005,jk2_init() Found child 5419 in scoreboard slot 7,E1,noise
+1427,Mon Dec 05 10:33:41 2005,jk2_init() Found child 5417 in scoreboard slot 9,E1,noise
+1428,Mon Dec 05 10:33:41 2005,jk2_init() Found child 5416 in scoreboard slot 8,E1,noise
+1429,Mon Dec 05 10:33:44 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1430,Mon Dec 05 10:33:44 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1431,Mon Dec 05 10:33:44 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1432,Mon Dec 05 10:33:44 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1433,Mon Dec 05 10:33:44 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1434,Mon Dec 05 10:33:44 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1435,Mon Dec 05 10:33:44 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1436,Mon Dec 05 10:33:44 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1437,Mon Dec 05 10:36:10 2005,jk2_init() Found child 5426 in scoreboard slot 6,E1,noise
+1438,Mon Dec 05 10:36:10 2005,jk2_init() Found child 5425 in scoreboard slot 9,E1,noise
+1439,Mon Dec 05 10:36:58 2005,jk2_init() Found child 5428 in scoreboard slot 8,E1,noise
+1440,Mon Dec 05 10:37:27 2005,jk2_init() Found child 5429 in scoreboard slot 9,E1,noise
+1441,Mon Dec 05 10:37:27 2005,jk2_init() Found child 5430 in scoreboard slot 6,E1,noise
+1442,Mon Dec 05 10:38:00 2005,jk2_init() Found child 5434 in scoreboard slot 6,E1,noise
+1443,Mon Dec 05 10:38:00 2005,jk2_init() Found child 5433 in scoreboard slot 9,E1,noise
+1444,Mon Dec 05 10:38:00 2005,jk2_init() Found child 5435 in scoreboard slot 7,E1,noise
+1445,Mon Dec 05 10:38:00 2005,jk2_init() Found child 5432 in scoreboard slot 8,E1,noise
+1446,Mon Dec 05 10:38:04 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1447,Mon Dec 05 10:38:04 2005,mod_jk child workerEnv in error state 8,E3,actionable
+1448,Mon Dec 05 10:38:04 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1449,Mon Dec 05 10:38:04 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1450,Mon Dec 05 10:38:04 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1451,Mon Dec 05 10:38:04 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1452,Mon Dec 05 10:38:04 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1453,Mon Dec 05 10:38:04 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1454,Mon Dec 05 10:41:14 2005,jk2_init() Found child 5470 in scoreboard slot 9,E1,noise
+1455,Mon Dec 05 10:41:14 2005,jk2_init() Found child 5469 in scoreboard slot 8,E1,noise
+1456,Mon Dec 05 10:42:23 2005,jk2_init() Found child 5474 in scoreboard slot 9,E1,noise
+1457,Mon Dec 05 10:42:23 2005,jk2_init() Found child 5475 in scoreboard slot 6,E1,noise
+1458,Mon Dec 05 10:43:19 2005,jk2_init() Found child 5482 in scoreboard slot 9,E1,noise
+1459,Mon Dec 05 10:43:19 2005,jk2_init() Found child 5480 in scoreboard slot 7,E1,noise
+1460,Mon Dec 05 10:43:19 2005,jk2_init() Found child 5479 in scoreboard slot 6,E1,noise
+1461,Mon Dec 05 10:43:19 2005,jk2_init() Found child 5481 in scoreboard slot 8,E1,noise
+1462,Mon Dec 05 10:43:34 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1463,Mon Dec 05 10:43:34 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1464,Mon Dec 05 10:43:39 2005,mod_jk child workerEnv in error state 8,E3,actionable
+1465,Mon Dec 05 10:43:41 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1466,Mon Dec 05 10:43:41 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1467,Mon Dec 05 10:43:48 2005,jk2_init() Found child 5484 in scoreboard slot 7,E1,noise
+1468,Mon Dec 05 10:43:48 2005,jk2_init() Found child 5483 in scoreboard slot 6,E1,noise
+1469,Mon Dec 05 10:43:51 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1470,Mon Dec 05 10:43:51 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1471,Mon Dec 05 10:43:51 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1472,Mon Dec 05 10:43:51 2005,mod_jk child workerEnv in error state 8,E3,actionable
+1473,Mon Dec 05 10:46:55 2005,jk2_init() Found child 5497 in scoreboard slot 7,E1,noise
+1474,Mon Dec 05 10:46:55 2005,jk2_init() Found child 5495 in scoreboard slot 9,E1,noise
+1475,Mon Dec 05 10:46:55 2005,jk2_init() Found child 5494 in scoreboard slot 8,E1,noise
+1476,Mon Dec 05 10:46:55 2005,jk2_init() Found child 5496 in scoreboard slot 6,E1,noise
+1477,Mon Dec 05 10:47:12 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1478,Mon Dec 05 10:47:12 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1479,Mon Dec 05 10:47:17 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1480,Mon Dec 05 10:47:17 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1481,Mon Dec 05 10:47:32 2005,jk2_init() Found child 5499 in scoreboard slot 9,E1,noise
+1482,Mon Dec 05 10:47:33 2005,jk2_init() Found child 5498 in scoreboard slot 8,E1,noise
+1483,Mon Dec 05 10:47:44 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1484,Mon Dec 05 10:47:44 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1485,Mon Dec 05 10:47:45 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1486,Mon Dec 05 10:47:45 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1487,Mon Dec 05 10:47:47 2005,jk2_init() Found child 5500 in scoreboard slot 6,E1,noise
+1488,Mon Dec 05 10:47:47 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1489,Mon Dec 05 10:47:47 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1490,Mon Dec 05 10:48:43 2005,jk2_init() Found child 5503 in scoreboard slot 10,E1,noise
+1491,Mon Dec 05 10:48:46 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1492,Mon Dec 05 10:48:46 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1493,Mon Dec 05 10:48:48 2005,[client 67.166.248.235] Directory index forbidden by rule: /var/www/html/,E4,noise
+1494,Mon Dec 05 10:51:12 2005,jk2_init() Found child 5515 in scoreboard slot 7,E1,noise
+1495,Mon Dec 05 10:51:12 2005,jk2_init() Found child 5516 in scoreboard slot 8,E1,noise
+1496,Mon Dec 05 10:51:33 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1497,Mon Dec 05 10:51:33 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1498,Mon Dec 05 10:51:35 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1499,Mon Dec 05 10:51:35 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1500,Mon Dec 05 10:51:59 2005,jk2_init() Found child 5517 in scoreboard slot 6,E1,noise
+1501,Mon Dec 05 10:52:00 2005,jk2_init() Found child 5518 in scoreboard slot 9,E1,noise
+1502,Mon Dec 05 10:52:15 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1503,Mon Dec 05 10:52:15 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1504,Mon Dec 05 10:52:21 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1505,Mon Dec 05 10:53:42 2005,jk2_init() Found child 5527 in scoreboard slot 7,E1,noise
+1506,Mon Dec 05 10:53:42 2005,jk2_init() Found child 5526 in scoreboard slot 9,E1,noise
+1507,Mon Dec 05 10:55:47 2005,jk2_init() Found child 5538 in scoreboard slot 9,E1,noise
+1508,Mon Dec 05 10:59:25 2005,jk2_init() Found child 5565 in scoreboard slot 9,E1,noise
+1509,Mon Dec 05 10:59:25 2005,jk2_init() Found child 5563 in scoreboard slot 7,E1,noise
+1510,Mon Dec 05 10:59:25 2005,jk2_init() Found child 5562 in scoreboard slot 6,E1,noise
+1511,Mon Dec 05 10:59:25 2005,jk2_init() Found child 5564 in scoreboard slot 8,E1,noise
+1512,Mon Dec 05 10:59:25 2005,jk2_init() Found child 5567 in scoreboard slot 12,E1,noise
+1513,Mon Dec 05 10:59:25 2005,jk2_init() Found child 5568 in scoreboard slot 13,E1,noise
+1514,Mon Dec 05 10:59:25 2005,jk2_init() Found child 5566 in scoreboard slot 10,E1,noise
+1515,Mon Dec 05 10:59:29 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1516,Mon Dec 05 10:59:29 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1517,Mon Dec 05 10:59:29 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1518,Mon Dec 05 10:59:29 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1519,Mon Dec 05 10:59:29 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1520,Mon Dec 05 10:59:29 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1521,Mon Dec 05 10:59:29 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1522,Mon Dec 05 10:59:29 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1523,Mon Dec 05 10:59:29 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1524,Mon Dec 05 10:59:29 2005,mod_jk child workerEnv in error state 8,E3,actionable
+1525,Mon Dec 05 10:59:29 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1526,Mon Dec 05 10:59:29 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1527,Mon Dec 05 10:59:29 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1528,Mon Dec 05 10:59:29 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1529,Mon Dec 05 11:02:05 2005,jk2_init() Found child 5579 in scoreboard slot 6,E1,noise
+1530,Mon Dec 05 11:04:16 2005,jk2_init() Found child 5592 in scoreboard slot 8,E1,noise
+1531,Mon Dec 05 11:04:16 2005,jk2_init() Found child 5593 in scoreboard slot 9,E1,noise
+1532,Mon Dec 05 11:06:50 2005,jk2_init() Found child 5616 in scoreboard slot 6,E1,noise
+1533,Mon Dec 05 11:06:51 2005,jk2_init() Found child 5617 in scoreboard slot 7,E1,noise
+1534,Mon Dec 05 11:06:51 2005,jk2_init() Found child 5618 in scoreboard slot 8,E1,noise
+1535,Mon Dec 05 11:06:51 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1536,Mon Dec 05 11:06:51 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1537,Mon Dec 05 11:06:51 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1538,Mon Dec 05 11:06:51 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1539,Mon Dec 05 11:06:51 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1540,Mon Dec 05 11:06:51 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1541,Mon Dec 05 11:06:52 2005,jk2_init() Can't find child 5619 in scoreboard,E5,actionable
+1542,Mon Dec 05 11:06:52 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1543,Mon Dec 05 11:06:52 2005,mod_jk child init 1 -2,E6,actionable
+1544,Mon Dec 05 11:06:52 2005,jk2_init() Can't find child 5620 in scoreboard,E5,actionable
+1545,Mon Dec 05 11:06:52 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1546,Mon Dec 05 11:06:52 2005,mod_jk child init 1 -2,E6,actionable
+1547,Mon Dec 05 11:06:52 2005,jk2_init() Can't find child 5621 in scoreboard,E5,actionable
+1548,Mon Dec 05 11:06:52 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1549,Mon Dec 05 11:06:52 2005,mod_jk child init 1 -2,E6,actionable
+1550,Mon Dec 05 11:06:52 2005,jk2_init() Can't find child 5622 in scoreboard,E5,actionable
+1551,Mon Dec 05 11:06:52 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1552,Mon Dec 05 11:06:52 2005,mod_jk child init 1 -2,E6,actionable
+1553,Mon Dec 05 12:35:57 2005,jk2_init() Found child 5785 in scoreboard slot 6,E1,noise
+1554,Mon Dec 05 12:35:57 2005,jk2_init() Found child 5786 in scoreboard slot 7,E1,noise
+1555,Mon Dec 05 12:36:36 2005,jk2_init() Found child 5790 in scoreboard slot 7,E1,noise
+1556,Mon Dec 05 12:36:36 2005,jk2_init() Found child 5788 in scoreboard slot 9,E1,noise
+1557,Mon Dec 05 12:36:36 2005,jk2_init() Found child 5789 in scoreboard slot 6,E1,noise
+1558,Mon Dec 05 12:36:36 2005,jk2_init() Found child 5787 in scoreboard slot 8,E1,noise
+1559,Mon Dec 05 12:36:39 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1560,Mon Dec 05 12:36:39 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1561,Mon Dec 05 12:36:39 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1562,Mon Dec 05 12:36:39 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1563,Mon Dec 05 12:36:39 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1564,Mon Dec 05 12:36:39 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1565,Mon Dec 05 12:36:39 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1566,Mon Dec 05 12:36:39 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1567,Mon Dec 05 12:40:37 2005,jk2_init() Found child 5798 in scoreboard slot 8,E1,noise
+1568,Mon Dec 05 12:40:38 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1569,Mon Dec 05 12:40:38 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1570,Mon Dec 05 12:50:42 2005,jk2_init() Found child 5811 in scoreboard slot 6,E1,noise
+1571,Mon Dec 05 12:50:42 2005,jk2_init() Found child 5810 in scoreboard slot 9,E1,noise
+1572,Mon Dec 05 12:50:43 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1573,Mon Dec 05 12:50:43 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1574,Mon Dec 05 12:50:43 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1575,Mon Dec 05 12:50:43 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1576,Mon Dec 05 12:55:48 2005,jk2_init() Found child 5817 in scoreboard slot 8,E1,noise
+1577,Mon Dec 05 12:55:48 2005,jk2_init() Found child 5816 in scoreboard slot 7,E1,noise
+1578,Mon Dec 05 12:55:49 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1579,Mon Dec 05 12:55:49 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1580,Mon Dec 05 12:55:49 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1581,Mon Dec 05 12:55:49 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1582,Mon Dec 05 13:00:33 2005,jk2_init() Found child 5825 in scoreboard slot 9,E1,noise
+1583,Mon Dec 05 13:00:33 2005,jk2_init() Found child 5826 in scoreboard slot 6,E1,noise
+1584,Mon Dec 05 13:00:34 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1585,Mon Dec 05 13:00:34 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1586,Mon Dec 05 13:00:34 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1587,Mon Dec 05 13:00:34 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1588,Mon Dec 05 13:05:24 2005,jk2_init() Found child 5845 in scoreboard slot 7,E1,noise
+1589,Mon Dec 05 13:05:24 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1590,Mon Dec 05 13:05:24 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1591,Mon Dec 05 13:10:55 2005,jk2_init() Found child 5856 in scoreboard slot 8,E1,noise
+1592,Mon Dec 05 13:10:59 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1593,Mon Dec 05 13:10:59 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1594,Mon Dec 05 13:16:27 2005,jk2_init() Found child 5877 in scoreboard slot 9,E1,noise
+1595,Mon Dec 05 13:16:27 2005,jk2_init() Found child 5876 in scoreboard slot 8,E1,noise
+1596,Mon Dec 05 13:16:27 2005,jk2_init() Found child 5878 in scoreboard slot 6,E1,noise
+1597,Mon Dec 05 13:16:27 2005,jk2_init() Found child 5875 in scoreboard slot 7,E1,noise
+1598,Mon Dec 05 13:16:29 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1599,Mon Dec 05 13:16:29 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1600,Mon Dec 05 13:16:29 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1601,Mon Dec 05 13:16:29 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1602,Mon Dec 05 13:16:29 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1603,Mon Dec 05 13:16:29 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1604,Mon Dec 05 13:16:29 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1605,Mon Dec 05 13:16:29 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1606,Mon Dec 05 13:21:35 2005,jk2_init() Found child 5893 in scoreboard slot 9,E1,noise
+1607,Mon Dec 05 13:21:34 2005,jk2_init() Found child 5892 in scoreboard slot 8,E1,noise
+1608,Mon Dec 05 13:22:45 2005,jk2_init() Found child 5901 in scoreboard slot 9,E1,noise
+1609,Mon Dec 05 13:22:45 2005,jk2_init() Found child 5899 in scoreboard slot 7,E1,noise
+1610,Mon Dec 05 13:22:45 2005,jk2_init() Found child 5900 in scoreboard slot 8,E1,noise
+1611,Mon Dec 05 13:22:45 2005,jk2_init() Found child 5898 in scoreboard slot 6,E1,noise
+1612,Mon Dec 05 13:22:48 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1613,Mon Dec 05 13:22:48 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1614,Mon Dec 05 13:22:48 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1615,Mon Dec 05 13:22:48 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1616,Mon Dec 05 13:22:48 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1617,Mon Dec 05 13:22:48 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1618,Mon Dec 05 13:22:48 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1619,Mon Dec 05 13:22:48 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1620,Mon Dec 05 13:26:03 2005,jk2_init() Found child 5912 in scoreboard slot 7,E1,noise
+1621,Mon Dec 05 13:26:37 2005,jk2_init() Found child 5914 in scoreboard slot 9,E1,noise
+1622,Mon Dec 05 13:26:37 2005,jk2_init() Found child 5915 in scoreboard slot 6,E1,noise
+1623,Mon Dec 05 13:27:15 2005,jk2_init() Found child 5917 in scoreboard slot 8,E1,noise
+1624,Mon Dec 05 13:27:14 2005,jk2_init() Found child 5916 in scoreboard slot 7,E1,noise
+1625,Mon Dec 05 13:27:15 2005,jk2_init() Found child 5919 in scoreboard slot 6,E1,noise
+1626,Mon Dec 05 13:27:15 2005,jk2_init() Found child 5918 in scoreboard slot 9,E1,noise
+1627,Mon Dec 05 13:28:14 2005,jk2_init() Found child 5925 in scoreboard slot 8,E1,noise
+1628,Mon Dec 05 13:28:14 2005,jk2_init() Found child 5923 in scoreboard slot 6,E1,noise
+1629,Mon Dec 05 13:28:14 2005,jk2_init() Found child 5924 in scoreboard slot 7,E1,noise
+1630,Mon Dec 05 13:28:14 2005,jk2_init() Found child 5922 in scoreboard slot 9,E1,noise
+1631,Mon Dec 05 13:28:17 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1632,Mon Dec 05 13:28:17 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1633,Mon Dec 05 13:28:17 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1634,Mon Dec 05 13:28:17 2005,mod_jk child workerEnv in error state 8,E3,actionable
+1635,Mon Dec 05 13:28:17 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1636,Mon Dec 05 13:28:17 2005,mod_jk child workerEnv in error state 8,E3,actionable
+1637,Mon Dec 05 13:28:17 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1638,Mon Dec 05 13:28:17 2005,mod_jk child workerEnv in error state 8,E3,actionable
+1639,Mon Dec 05 13:31:19 2005,jk2_init() Found child 5935 in scoreboard slot 9,E1,noise
+1640,Mon Dec 05 13:31:19 2005,jk2_init() Found child 5936 in scoreboard slot 6,E1,noise
+1641,Mon Dec 05 13:31:53 2005,jk2_init() Found child 5938 in scoreboard slot 8,E1,noise
+1642,Mon Dec 05 13:31:53 2005,jk2_init() Found child 5937 in scoreboard slot 7,E1,noise
+1643,Mon Dec 05 13:32:01 2005,jk2_init() Found child 5940 in scoreboard slot 6,E1,noise
+1644,Mon Dec 05 13:32:01 2005,jk2_init() Found child 5939 in scoreboard slot 9,E1,noise
+1645,Mon Dec 05 13:32:04 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1646,Mon Dec 05 13:32:04 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1647,Mon Dec 05 13:32:04 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1648,Mon Dec 05 13:32:04 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1649,Mon Dec 05 13:32:09 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1650,Mon Dec 05 13:32:09 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1651,Mon Dec 05 13:32:10 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1652,Mon Dec 05 13:32:10 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1653,Mon Dec 05 13:32:28 2005,jk2_init() Found child 5942 in scoreboard slot 8,E1,noise
+1654,Mon Dec 05 13:32:28 2005,jk2_init() Found child 5941 in scoreboard slot 7,E1,noise
+1655,Mon Dec 05 13:32:30 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1656,Mon Dec 05 13:32:30 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1657,Mon Dec 05 13:32:30 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1658,Mon Dec 05 13:32:30 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1659,Mon Dec 05 13:36:27 2005,jk2_init() Found child 5954 in scoreboard slot 7,E1,noise
+1660,Mon Dec 05 13:36:27 2005,jk2_init() Found child 5953 in scoreboard slot 6,E1,noise
+1661,Mon Dec 05 13:36:58 2005,jk2_init() Found child 5956 in scoreboard slot 9,E1,noise
+1662,Mon Dec 05 13:36:58 2005,jk2_init() Found child 5957 in scoreboard slot 6,E1,noise
+1663,Mon Dec 05 13:36:58 2005,jk2_init() Found child 5955 in scoreboard slot 8,E1,noise
+1664,Mon Dec 05 13:37:47 2005,jk2_init() Found child 5961 in scoreboard slot 6,E1,noise
+1665,Mon Dec 05 13:37:47 2005,jk2_init() Found child 5960 in scoreboard slot 9,E1,noise
+1666,Mon Dec 05 13:38:52 2005,jk2_init() Found child 5968 in scoreboard slot 9,E1,noise
+1667,Mon Dec 05 13:38:53 2005,jk2_init() Found child 5965 in scoreboard slot 6,E1,noise
+1668,Mon Dec 05 13:38:52 2005,jk2_init() Found child 5967 in scoreboard slot 8,E1,noise
+1669,Mon Dec 05 13:38:53 2005,jk2_init() Found child 5969 in scoreboard slot 10,E1,noise
+1670,Mon Dec 05 13:38:52 2005,jk2_init() Found child 5966 in scoreboard slot 7,E1,noise
+1671,Mon Dec 05 13:39:09 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1672,Mon Dec 05 13:39:09 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1673,Mon Dec 05 13:39:14 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1674,Mon Dec 05 13:39:13 2005,mod_jk child workerEnv in error state 8,E3,actionable
+1675,Mon Dec 05 13:39:36 2005,jk2_init() Found child 5970 in scoreboard slot 6,E1,noise
+1676,Mon Dec 05 13:39:36 2005,jk2_init() Found child 5971 in scoreboard slot 7,E1,noise
+1677,Mon Dec 05 13:39:41 2005,jk2_init() Found child 5972 in scoreboard slot 8,E1,noise
+1678,Mon Dec 05 13:39:41 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1679,Mon Dec 05 13:39:41 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1680,Mon Dec 05 13:39:41 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1681,Mon Dec 05 13:39:41 2005,mod_jk child workerEnv in error state 8,E3,actionable
+1682,Mon Dec 05 13:39:41 2005,mod_jk child workerEnv in error state 9,E3,actionable
+1683,Mon Dec 05 13:39:41 2005,mod_jk child workerEnv in error state 8,E3,actionable
+1684,Mon Dec 05 13:41:11 2005,jk2_init() Found child 5981 in scoreboard slot 9,E1,noise
+1685,Mon Dec 05 13:41:12 2005,jk2_init() Found child 5982 in scoreboard slot 6,E1,noise
+1686,Mon Dec 05 13:41:58 2005,jk2_init() Found child 5984 in scoreboard slot 8,E1,noise
+1687,Mon Dec 05 13:41:58 2005,jk2_init() Found child 5985 in scoreboard slot 9,E1,noise
+1688,Mon Dec 05 13:43:27 2005,jk2_init() Found child 5992 in scoreboard slot 8,E1,noise
+1689,Mon Dec 05 13:43:27 2005,jk2_init() Found child 5993 in scoreboard slot 9,E1,noise
+1690,Mon Dec 05 13:43:27 2005,jk2_init() Found child 5990 in scoreboard slot 6,E1,noise
+1691,Mon Dec 05 13:43:27 2005,jk2_init() Found child 5991 in scoreboard slot 7,E1,noise
+1692,Mon Dec 05 13:43:43 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1693,Mon Dec 05 13:43:44 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1694,Mon Dec 05 13:43:43 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1695,Mon Dec 05 13:43:46 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1696,Mon Dec 05 13:43:46 2005,mod_jk child workerEnv in error state 8,E3,actionable
+1697,Mon Dec 05 13:43:46 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1698,Mon Dec 05 13:44:18 2005,jk2_init() Found child 5995 in scoreboard slot 7,E1,noise
+1699,Mon Dec 05 13:44:18 2005,jk2_init() Found child 5996 in scoreboard slot 8,E1,noise
+1700,Mon Dec 05 13:44:32 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1701,Mon Dec 05 13:44:35 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1702,Mon Dec 05 13:44:38 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1703,Mon Dec 05 13:44:38 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1704,Mon Dec 05 13:44:53 2005,jk2_init() Found child 5997 in scoreboard slot 9,E1,noise
+1705,Mon Dec 05 13:45:01 2005,jk2_init() Found child 5998 in scoreboard slot 6,E1,noise
+1706,Mon Dec 05 13:45:01 2005,jk2_init() Found child 5999 in scoreboard slot 7,E1,noise
+1707,Mon Dec 05 13:45:08 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1708,Mon Dec 05 13:45:08 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1709,Mon Dec 05 13:45:08 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1710,Mon Dec 05 13:45:08 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1711,Mon Dec 05 13:45:08 2005,mod_jk child workerEnv in error state 8,E3,actionable
+1712,Mon Dec 05 13:45:08 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1713,Mon Dec 05 13:46:20 2005,jk2_init() Found child 6007 in scoreboard slot 7,E1,noise
+1714,Mon Dec 05 13:46:20 2005,jk2_init() Found child 6006 in scoreboard slot 6,E1,noise
+1715,Mon Dec 05 13:46:20 2005,jk2_init() Found child 6005 in scoreboard slot 9,E1,noise
+1716,Mon Dec 05 13:46:50 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1717,Mon Dec 05 13:47:06 2005,jk2_init() Found child 6008 in scoreboard slot 8,E1,noise
+1718,Mon Dec 05 13:47:06 2005,jk2_init() Found child 6009 in scoreboard slot 9,E1,noise
+1719,Mon Dec 05 13:47:09 2005,jk2_init() Found child 6011 in scoreboard slot 7,E1,noise
+1720,Mon Dec 05 13:47:09 2005,jk2_init() Found child 6010 in scoreboard slot 6,E1,noise
+1721,Mon Dec 05 13:47:11 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1722,Mon Dec 05 13:47:11 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1723,Mon Dec 05 13:47:11 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1724,Mon Dec 05 13:47:11 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1725,Mon Dec 05 13:47:11 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1726,Mon Dec 05 13:47:11 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1727,Mon Dec 05 13:47:11 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1728,Mon Dec 05 13:47:11 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1729,Mon Dec 05 13:51:17 2005,jk2_init() Found child 6028 in scoreboard slot 9,E1,noise
+1730,Mon Dec 05 13:52:19 2005,jk2_init() Found child 6036 in scoreboard slot 9,E1,noise
+1731,Mon Dec 05 13:52:19 2005,jk2_init() Found child 6033 in scoreboard slot 6,E1,noise
+1732,Mon Dec 05 13:52:19 2005,jk2_init() Found child 6035 in scoreboard slot 8,E1,noise
+1733,Mon Dec 05 13:52:19 2005,jk2_init() Found child 6034 in scoreboard slot 7,E1,noise
+1734,Mon Dec 05 13:52:33 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1735,Mon Dec 05 13:52:33 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1736,Mon Dec 05 13:52:36 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1737,Mon Dec 05 13:52:36 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1738,Mon Dec 05 13:53:00 2005,jk2_init() Found child 6038 in scoreboard slot 7,E1,noise
+1739,Mon Dec 05 13:53:00 2005,jk2_init() Found child 6037 in scoreboard slot 6,E1,noise
+1740,Mon Dec 05 13:53:00 2005,jk2_init() Found child 6039 in scoreboard slot 10,E1,noise
+1741,Mon Dec 05 13:53:31 2005,jk2_init() Found child 6043 in scoreboard slot 9,E1,noise
+1742,Mon Dec 05 13:53:31 2005,jk2_init() Found child 6042 in scoreboard slot 7,E1,noise
+1743,Mon Dec 05 13:53:31 2005,jk2_init() Found child 6041 in scoreboard slot 6,E1,noise
+1744,Mon Dec 05 13:53:34 2005,jk2_init() Found child 6044 in scoreboard slot 8,E1,noise
+1745,Mon Dec 05 13:53:35 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1746,Mon Dec 05 13:53:35 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1747,Mon Dec 05 13:53:35 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1748,Mon Dec 05 13:53:35 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1749,Mon Dec 05 13:53:35 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1750,Mon Dec 05 13:53:35 2005,mod_jk child workerEnv in error state 8,E3,actionable
+1751,Mon Dec 05 13:53:35 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1752,Mon Dec 05 13:53:35 2005,mod_jk child workerEnv in error state 8,E3,actionable
+1753,Mon Dec 05 13:56:21 2005,jk2_init() Found child 6052 in scoreboard slot 6,E1,noise
+1754,Mon Dec 05 13:56:38 2005,jk2_init() Found child 6053 in scoreboard slot 7,E1,noise
+1755,Mon Dec 05 13:57:07 2005,jk2_init() Found child 6054 in scoreboard slot 9,E1,noise
+1756,Mon Dec 05 13:57:07 2005,jk2_init() Found child 6055 in scoreboard slot 8,E1,noise
+1757,Mon Dec 05 13:58:31 2005,jk2_init() Found child 6063 in scoreboard slot 8,E1,noise
+1758,Mon Dec 05 13:58:31 2005,jk2_init() Found child 6062 in scoreboard slot 9,E1,noise
+1759,Mon Dec 05 13:59:43 2005,jk2_init() Found child 6069 in scoreboard slot 7,E1,noise
+1760,Mon Dec 05 13:59:43 2005,jk2_init() Found child 6070 in scoreboard slot 9,E1,noise
+1761,Mon Dec 05 13:59:43 2005,jk2_init() Found child 6071 in scoreboard slot 8,E1,noise
+1762,Mon Dec 05 14:01:47 2005,jk2_init() Found child 6100 in scoreboard slot 7,E1,noise
+1763,Mon Dec 05 14:01:47 2005,jk2_init() Found child 6101 in scoreboard slot 8,E1,noise
+1764,Mon Dec 05 14:01:47 2005,jk2_init() Found child 6099 in scoreboard slot 6,E1,noise
+1765,Mon Dec 05 14:01:48 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1766,Mon Dec 05 14:01:48 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1767,Mon Dec 05 14:01:48 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1768,Mon Dec 05 14:01:48 2005,mod_jk child workerEnv in error state 9,E3,actionable
+1769,Mon Dec 05 14:01:48 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1770,Mon Dec 05 14:01:48 2005,mod_jk child workerEnv in error state 8,E3,actionable
+1771,Mon Dec 05 14:11:40 2005,jk2_init() Found child 6115 in scoreboard slot 10,E1,noise
+1772,Mon Dec 05 14:11:43 2005,[client 141.154.18.244] Directory index forbidden by rule: /var/www/html/,E4,noise
+1773,Mon Dec 05 14:11:45 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1774,Mon Dec 05 14:11:45 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1775,Mon Dec 05 15:31:06 2005,jk2_init() Found child 6259 in scoreboard slot 6,E1,noise
+1776,Mon Dec 05 15:31:06 2005,jk2_init() Found child 6260 in scoreboard slot 7,E1,noise
+1777,Mon Dec 05 15:31:09 2005,jk2_init() Found child 6261 in scoreboard slot 8,E1,noise
+1778,Mon Dec 05 15:31:10 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1779,Mon Dec 05 15:31:10 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1780,Mon Dec 05 15:31:10 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1781,Mon Dec 05 15:31:10 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1782,Mon Dec 05 15:31:10 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1783,Mon Dec 05 15:31:10 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1784,Mon Dec 05 15:40:59 2005,jk2_init() Found child 6277 in scoreboard slot 7,E1,noise
+1785,Mon Dec 05 15:40:59 2005,jk2_init() Found child 6276 in scoreboard slot 6,E1,noise
+1786,Mon Dec 05 15:41:32 2005,jk2_init() Found child 6280 in scoreboard slot 7,E1,noise
+1787,Mon Dec 05 15:41:32 2005,jk2_init() Found child 6278 in scoreboard slot 8,E1,noise
+1788,Mon Dec 05 15:41:32 2005,jk2_init() Found child 6279 in scoreboard slot 6,E1,noise
+1789,Mon Dec 05 15:41:32 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1790,Mon Dec 05 15:41:32 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1791,Mon Dec 05 15:41:32 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1792,Mon Dec 05 15:41:32 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1793,Mon Dec 05 15:41:32 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1794,Mon Dec 05 15:41:32 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1795,Mon Dec 05 15:45:42 2005,jk2_init() Found child 6285 in scoreboard slot 8,E1,noise
+1796,Mon Dec 05 15:45:44 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1797,Mon Dec 05 15:45:44 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1798,Mon Dec 05 15:50:53 2005,jk2_init() Found child 6293 in scoreboard slot 6,E1,noise
+1799,Mon Dec 05 15:50:53 2005,jk2_init() Found child 6294 in scoreboard slot 7,E1,noise
+1800,Mon Dec 05 15:51:18 2005,jk2_init() Found child 6297 in scoreboard slot 7,E1,noise
+1801,Mon Dec 05 15:51:18 2005,jk2_init() Found child 6295 in scoreboard slot 8,E1,noise
+1802,Mon Dec 05 15:51:18 2005,jk2_init() Found child 6296 in scoreboard slot 6,E1,noise
+1803,Mon Dec 05 15:51:20 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1804,Mon Dec 05 15:51:20 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1805,Mon Dec 05 15:51:20 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1806,Mon Dec 05 15:51:20 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1807,Mon Dec 05 15:51:20 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1808,Mon Dec 05 15:51:20 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1809,Mon Dec 05 15:55:31 2005,jk2_init() Found child 6302 in scoreboard slot 8,E1,noise
+1810,Mon Dec 05 15:55:32 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1811,Mon Dec 05 15:55:32 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1812,Mon Dec 05 16:01:17 2005,jk2_init() Found child 6310 in scoreboard slot 6,E1,noise
+1813,Mon Dec 05 16:02:00 2005,jk2_init() Found child 6315 in scoreboard slot 6,E1,noise
+1814,Mon Dec 05 16:02:00 2005,jk2_init() Found child 6316 in scoreboard slot 7,E1,noise
+1815,Mon Dec 05 16:02:00 2005,jk2_init() Found child 6314 in scoreboard slot 8,E1,noise
+1816,Mon Dec 05 16:02:02 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1817,Mon Dec 05 16:02:02 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1818,Mon Dec 05 16:02:02 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1819,Mon Dec 05 16:02:02 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1820,Mon Dec 05 16:02:02 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1821,Mon Dec 05 16:02:02 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1822,Mon Dec 05 16:06:07 2005,jk2_init() Found child 6333 in scoreboard slot 8,E1,noise
+1823,Mon Dec 05 16:06:21 2005,jk2_init() Found child 6335 in scoreboard slot 7,E1,noise
+1824,Mon Dec 05 16:07:08 2005,jk2_init() Found child 6339 in scoreboard slot 8,E1,noise
+1825,Mon Dec 05 16:07:08 2005,jk2_init() Found child 6340 in scoreboard slot 6,E1,noise
+1826,Mon Dec 05 16:07:08 2005,jk2_init() Found child 6338 in scoreboard slot 7,E1,noise
+1827,Mon Dec 05 16:07:09 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1828,Mon Dec 05 16:07:09 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1829,Mon Dec 05 16:07:09 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1830,Mon Dec 05 16:07:09 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1831,Mon Dec 05 16:07:09 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1832,Mon Dec 05 16:07:09 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1833,Mon Dec 05 16:10:43 2005,jk2_init() Found child 6351 in scoreboard slot 8,E1,noise
+1834,Mon Dec 05 16:10:43 2005,jk2_init() Found child 6350 in scoreboard slot 7,E1,noise
+1835,Mon Dec 05 16:10:44 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1836,Mon Dec 05 16:10:44 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1837,Mon Dec 05 16:10:44 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1838,Mon Dec 05 16:10:44 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1839,Mon Dec 05 16:16:34 2005,jk2_init() Found child 6368 in scoreboard slot 8,E1,noise
+1840,Mon Dec 05 16:16:34 2005,jk2_init() Found child 6367 in scoreboard slot 7,E1,noise
+1841,Mon Dec 05 16:16:34 2005,jk2_init() Found child 6366 in scoreboard slot 6,E1,noise
+1842,Mon Dec 05 16:16:36 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1843,Mon Dec 05 16:16:36 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1844,Mon Dec 05 16:16:36 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1845,Mon Dec 05 16:16:36 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1846,Mon Dec 05 16:16:36 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1847,Mon Dec 05 16:16:36 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1848,Mon Dec 05 16:21:25 2005,jk2_init() Found child 6387 in scoreboard slot 7,E1,noise
+1849,Mon Dec 05 16:21:25 2005,jk2_init() Found child 6386 in scoreboard slot 6,E1,noise
+1850,Mon Dec 05 16:21:25 2005,jk2_init() Found child 6385 in scoreboard slot 8,E1,noise
+1851,Mon Dec 05 16:21:29 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1852,Mon Dec 05 16:21:29 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1853,Mon Dec 05 16:21:29 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1854,Mon Dec 05 16:21:29 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1855,Mon Dec 05 16:21:29 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1856,Mon Dec 05 16:21:29 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1857,Mon Dec 05 16:26:00 2005,jk2_init() Found child 6400 in scoreboard slot 7,E1,noise
+1858,Mon Dec 05 16:26:00 2005,jk2_init() Found child 6399 in scoreboard slot 6,E1,noise
+1859,Mon Dec 05 16:26:00 2005,jk2_init() Found child 6398 in scoreboard slot 8,E1,noise
+1860,Mon Dec 05 16:26:05 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1861,Mon Dec 05 16:26:05 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1862,Mon Dec 05 16:26:05 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1863,Mon Dec 05 16:26:05 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1864,Mon Dec 05 16:26:05 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1865,Mon Dec 05 16:26:05 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1866,Mon Dec 05 16:31:48 2005,jk2_init() Found child 6420 in scoreboard slot 6,E1,noise
+1867,Mon Dec 05 16:31:49 2005,jk2_init() Found child 6421 in scoreboard slot 7,E1,noise
+1868,Mon Dec 05 16:31:49 2005,jk2_init() Found child 6422 in scoreboard slot 8,E1,noise
+1869,Mon Dec 05 16:31:52 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1870,Mon Dec 05 16:31:52 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1871,Mon Dec 05 16:31:52 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1872,Mon Dec 05 16:31:52 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1873,Mon Dec 05 16:31:52 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1874,Mon Dec 05 16:31:52 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1875,Mon Dec 05 16:36:06 2005,jk2_init() Found child 6434 in scoreboard slot 7,E1,noise
+1876,Mon Dec 05 16:36:06 2005,jk2_init() Found child 6433 in scoreboard slot 6,E1,noise
+1877,Mon Dec 05 16:36:42 2005,jk2_init() Found child 6435 in scoreboard slot 8,E1,noise
+1878,Mon Dec 05 16:37:03 2005,jk2_init() Found child 6437 in scoreboard slot 7,E1,noise
+1879,Mon Dec 05 16:38:17 2005,jk2_init() Found child 6443 in scoreboard slot 7,E1,noise
+1880,Mon Dec 05 16:38:17 2005,jk2_init() Found child 6442 in scoreboard slot 6,E1,noise
+1881,Mon Dec 05 16:39:59 2005,jk2_init() Found child 6453 in scoreboard slot 10,E1,noise
+1882,Mon Dec 05 16:39:59 2005,jk2_init() Found child 6451 in scoreboard slot 7,E1,noise
+1883,Mon Dec 05 16:39:59 2005,jk2_init() Found child 6452 in scoreboard slot 8,E1,noise
+1884,Mon Dec 05 16:40:06 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1885,Mon Dec 05 16:40:06 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1886,Mon Dec 05 16:40:06 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1887,Mon Dec 05 16:40:06 2005,mod_jk child workerEnv in error state 9,E3,actionable
+1888,Mon Dec 05 16:40:06 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1889,Mon Dec 05 16:40:06 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1890,Mon Dec 05 16:45:04 2005,[client 216.216.185.130] Directory index forbidden by rule: /var/www/html/,E4,noise
+1891,Mon Dec 05 17:31:37 2005,jk2_init() Found child 6561 in scoreboard slot 10,E1,noise
+1892,Mon Dec 05 17:31:39 2005,[client 218.75.106.250] Directory index forbidden by rule: /var/www/html/,E4,noise
+1893,Mon Dec 05 17:31:41 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1894,Mon Dec 05 17:31:41 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1895,Mon Dec 05 17:35:57 2005,jk2_init() Found child 6569 in scoreboard slot 8,E1,noise
+1896,Mon Dec 05 17:35:57 2005,jk2_init() Found child 6568 in scoreboard slot 7,E1,noise
+1897,Mon Dec 05 17:35:58 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1898,Mon Dec 05 17:35:58 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1899,Mon Dec 05 17:35:58 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1900,Mon Dec 05 17:35:58 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1901,Mon Dec 05 17:40:38 2005,jk2_init() Found child 6577 in scoreboard slot 7,E1,noise
+1902,Mon Dec 05 17:40:38 2005,jk2_init() Found child 6578 in scoreboard slot 8,E1,noise
+1903,Mon Dec 05 17:40:39 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1904,Mon Dec 05 17:40:39 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1905,Mon Dec 05 17:40:39 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1906,Mon Dec 05 17:40:39 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1907,Mon Dec 05 17:46:02 2005,jk2_init() Found child 6585 in scoreboard slot 7,E1,noise
+1908,Mon Dec 05 17:46:02 2005,jk2_init() Found child 6586 in scoreboard slot 8,E1,noise
+1909,Mon Dec 05 17:46:06 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1910,Mon Dec 05 17:46:06 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1911,Mon Dec 05 17:46:06 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1912,Mon Dec 05 17:46:06 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1913,Mon Dec 05 17:50:40 2005,jk2_init() Found child 6595 in scoreboard slot 8,E1,noise
+1914,Mon Dec 05 17:50:40 2005,jk2_init() Found child 6594 in scoreboard slot 7,E1,noise
+1915,Mon Dec 05 17:50:41 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1916,Mon Dec 05 17:50:41 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1917,Mon Dec 05 17:50:41 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1918,Mon Dec 05 17:50:41 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1919,Mon Dec 05 17:55:35 2005,jk2_init() Found child 6601 in scoreboard slot 8,E1,noise
+1920,Mon Dec 05 17:55:35 2005,jk2_init() Found child 6600 in scoreboard slot 7,E1,noise
+1921,Mon Dec 05 17:55:35 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1922,Mon Dec 05 17:55:35 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1923,Mon Dec 05 17:55:35 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1924,Mon Dec 05 17:55:35 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1925,Mon Dec 05 18:00:24 2005,jk2_init() Found child 6609 in scoreboard slot 7,E1,noise
+1926,Mon Dec 05 18:00:26 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1927,Mon Dec 05 18:00:26 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1928,Mon Dec 05 18:10:56 2005,jk2_init() Found child 6639 in scoreboard slot 7,E1,noise
+1929,Mon Dec 05 18:10:56 2005,jk2_init() Found child 6638 in scoreboard slot 8,E1,noise
+1930,Mon Dec 05 18:10:58 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1931,Mon Dec 05 18:10:58 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1932,Mon Dec 05 18:10:58 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1933,Mon Dec 05 18:10:58 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1934,Mon Dec 05 18:15:45 2005,jk2_init() Found child 6652 in scoreboard slot 7,E1,noise
+1935,Mon Dec 05 18:15:45 2005,jk2_init() Found child 6651 in scoreboard slot 8,E1,noise
+1936,Mon Dec 05 18:15:47 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1937,Mon Dec 05 18:15:47 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1938,Mon Dec 05 18:15:47 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1939,Mon Dec 05 18:15:47 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1940,Mon Dec 05 18:20:51 2005,jk2_init() Found child 6670 in scoreboard slot 7,E1,noise
+1941,Mon Dec 05 18:20:51 2005,jk2_init() Found child 6669 in scoreboard slot 8,E1,noise
+1942,Mon Dec 05 18:20:53 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1943,Mon Dec 05 18:20:53 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1944,Mon Dec 05 18:20:53 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1945,Mon Dec 05 18:20:53 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1946,Mon Dec 05 18:26:06 2005,jk2_init() Found child 6684 in scoreboard slot 7,E1,noise
+1947,Mon Dec 05 18:27:29 2005,jk2_init() Found child 6688 in scoreboard slot 8,E1,noise
+1948,Mon Dec 05 18:27:33 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1949,Mon Dec 05 18:27:33 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1950,Mon Dec 05 18:27:37 2005,jk2_init() Found child 6689 in scoreboard slot 7,E1,noise
+1951,Mon Dec 05 18:27:37 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1952,Mon Dec 05 18:27:37 2005,mod_jk child workerEnv in error state 7,E3,actionable
+1953,Mon Dec 05 18:35:51 2005,jk2_init() Found child 6707 in scoreboard slot 8,E1,noise
+1954,Mon Dec 05 18:35:51 2005,jk2_init() Found child 6708 in scoreboard slot 7,E1,noise
+1955,Mon Dec 05 18:35:53 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1956,Mon Dec 05 18:35:53 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1957,Mon Dec 05 18:35:53 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1958,Mon Dec 05 18:35:53 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1959,Mon Dec 05 18:40:54 2005,jk2_init() Found child 6719 in scoreboard slot 7,E1,noise
+1960,Mon Dec 05 18:40:54 2005,jk2_init() Found child 6718 in scoreboard slot 8,E1,noise
+1961,Mon Dec 05 18:40:54 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1962,Mon Dec 05 18:40:54 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1963,Mon Dec 05 18:40:54 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1964,Mon Dec 05 18:40:54 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1965,Mon Dec 05 18:45:51 2005,jk2_init() Found child 6725 in scoreboard slot 7,E1,noise
+1966,Mon Dec 05 18:45:51 2005,jk2_init() Found child 6724 in scoreboard slot 8,E1,noise
+1967,Mon Dec 05 18:45:53 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1968,Mon Dec 05 18:45:53 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1969,Mon Dec 05 18:45:53 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1970,Mon Dec 05 18:45:53 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1971,Mon Dec 05 18:50:30 2005,jk2_init() Found child 6733 in scoreboard slot 8,E1,noise
+1972,Mon Dec 05 18:50:31 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1973,Mon Dec 05 18:50:31 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1974,Mon Dec 05 18:56:03 2005,jk2_init() Found child 6740 in scoreboard slot 7,E1,noise
+1975,Mon Dec 05 18:56:03 2005,jk2_init() Found child 6741 in scoreboard slot 8,E1,noise
+1976,Mon Dec 05 18:56:04 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1977,Mon Dec 05 18:56:04 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1978,Mon Dec 05 18:56:04 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1979,Mon Dec 05 18:56:04 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1980,Mon Dec 05 19:00:43 2005,jk2_init() Found child 6750 in scoreboard slot 8,E1,noise
+1981,Mon Dec 05 19:00:43 2005,jk2_init() Found child 6749 in scoreboard slot 7,E1,noise
+1982,Mon Dec 05 19:00:44 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1983,Mon Dec 05 19:00:44 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1984,Mon Dec 05 19:00:44 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1985,Mon Dec 05 19:00:44 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1986,Mon Dec 05 19:00:54 2005,jk2_init() Found child 6751 in scoreboard slot 10,E1,noise
+1987,Mon Dec 05 19:00:54 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1988,Mon Dec 05 19:00:54 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1989,Mon Dec 05 19:00:56 2005,[client 68.228.3.15] Directory index forbidden by rule: /var/www/html/,E4,noise
+1990,Mon Dec 05 19:11:00 2005,jk2_init() Found child 6780 in scoreboard slot 7,E1,noise
+1991,Mon Dec 05 19:11:04 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1992,Mon Dec 05 19:11:04 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1993,Mon Dec 05 19:14:08 2005,jk2_init() Found child 6784 in scoreboard slot 8,E1,noise
+1994,Mon Dec 05 19:14:09 2005,[client 61.220.139.68] Directory index forbidden by rule: /var/www/html/,E4,noise
+1995,Mon Dec 05 19:14:11 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+1996,Mon Dec 05 19:14:11 2005,mod_jk child workerEnv in error state 6,E3,actionable
+1997,Mon Dec 05 19:15:55 2005,jk2_init() Found child 6791 in scoreboard slot 8,E1,noise
+1998,Mon Dec 05 19:15:55 2005,jk2_init() Found child 6790 in scoreboard slot 7,E1,noise
+1999,Mon Dec 05 19:15:57 2005,workerEnv.init() ok /etc/httpd/conf/workers2.properties,E2,noise
+2000,Mon Dec 05 19:15:57 2005,mod_jk child workerEnv in error state 6,E3,actionable

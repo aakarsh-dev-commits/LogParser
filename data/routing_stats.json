@@ -1,0 +1,15 @@
+{
+  "threshold": 100,
+  "total_logs": 2000,
+  "bypassed": 1944,
+  "bypassed_pct": 97.2,
+  "routed_to_llm": 56,
+  "routed_pct": 2.8,
+  "api_call_savings_pct": 97.2,
+  "bypass_label_breakdown": {
+    "noise": 1405,
+    "actionable": 539
+  },
+  "routed_for_llm_path": "data/routed_for_llm.csv",
+  "bypassed_logs_path": "data/bypassed_logs.csv"
+}

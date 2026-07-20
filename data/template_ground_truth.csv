@@ -1,0 +1,7 @@
+EventId,EventTemplate,apache_level_tag,proposed_label,rationale,human_confirmed
+E1,jk2_init() Found child <*> in scoreboard slot <*>,notice,noise,Routine worker registration during startup. Happens every time a worker process spins up. No operator action possible or needed.,CONFIRMED
+E2,workerEnv.init() ok <*>,notice,noise,Routine confirmation that config file loaded successfully. Purely informational.,CONFIRMED
+E3,mod_jk child workerEnv in error state <*>,error,actionable,"Explicit error state on a worker. Recurs constantly (539x) alongside startup -- worth surfacing as a persistent, unresolved issue rather than dismissing as routine.",CONFIRMED
+E4,[client <*>] Directory index forbidden by rule: <*>,error,noise,This is Apache correctly blocking directory listing per config (security working as intended). Apache tags it [error] but there is nothing for an operator to fix here -- reframed as noise despite the raw severity tag.,CONFIRMED
+E5,jk2_init() Can't find child <*> in scoreboard,error,actionable,"Distinct failure mode from E1 -- worker registration is failing, not succeeding. Real operational problem.",CONFIRMED
+E6,mod_jk child init <*> <*>,error,actionable,"Init reporting a negative status code, consistent with an internal failure code in mod_jk. Rare (12x) and worth flagging.",CONFIRMED

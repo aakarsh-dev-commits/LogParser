@@ -1,0 +1,16 @@
+{
+  "dataset": "HDFS_2k",
+  "threshold": 50,
+  "total_logs": 2000,
+  "bypassed": 1971,
+  "bypassed_pct": 98.55,
+  "routed_to_llm": 29,
+  "routed_pct": 1.45,
+  "api_call_savings_pct": 98.55,
+  "bypass_label_breakdown": {
+    "noise": 1891,
+    "actionable": 80
+  },
+  "routed_for_llm_path": "data/hdfs_routed_for_llm.csv",
+  "bypassed_logs_path": "data/hdfs_bypassed_logs.csv"
+}
